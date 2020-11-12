@@ -13,6 +13,7 @@ export default function App() {
 const Main = styled.div`
   display: flex;
   justify-content: center;
+  align-items: center;
   height: 100%;
   color: #242422;
   font-size: 75px;
@@ -23,8 +24,7 @@ function Painting() {
     <SvgOuter
       version="1.1"
       baseProfile="full"
-      width={mondrian.width}
-      height={mondrian.height}
+      viewBox={`0 0 ${mondrian.width} ${mondrian.height}`}
     >
       {mondrian.rectangles.map((rectangle) => (
         <rect
@@ -33,8 +33,8 @@ function Painting() {
           y={rectangle.y}
           height={rectangle.height}
           width={rectangle.width}
-          fill={rectangle.color_id}
-          stroke={'black'}
+          fill={colors[rectangle.color_id]}
+          stroke={colors.black}
           strokeWidth="10"
         ></rect>
       ))}
@@ -42,8 +42,16 @@ function Painting() {
   )
 }
 
+const colors = {
+  black: '#000407',
+  white: '#EEEDED',
+  red: 'rgb(238, 21, 31)',
+  yellow: 'rgb(255, 243, 0)',
+  blue: 'rgb(0, 102, 181)'
+}
+
 const SvgOuter = styled.svg`
   overflow: visible;
+  height: 95vh;
   padding: 5px;
-  margin: 20px 0px;
 `
