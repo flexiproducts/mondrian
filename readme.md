@@ -6,3 +6,5 @@ Run with
 ```
 npm start
 ```
+
+Published by push to `master` on Github Pages.
