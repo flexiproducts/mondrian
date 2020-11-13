@@ -14,15 +14,17 @@ export default function App({pageContext: {mondrian}}: AppProps) {
   return (
     <Main>
       <GlobalStyle />
-      <MondrianContainer>
+      <MondrianContainer href="/mondrian">
         <MondrianSimplified mondrian={mondrian} />
       </MondrianContainer>
     </Main>
   )
 }
 
-const MondrianContainer = styled.div`
+const MondrianContainer = styled.a`
+  display: block;
   height: 95vh;
+  max-width: 95vw;
 `
 
 const Main = styled.div`
