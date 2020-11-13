@@ -1,11 +1,8 @@
-# react-template
+# mondrian
 
-Run development server with
+Static site for mondrian paintings based on this [bachelor thesis](https://github.com/finnp/mondrian).
+
+Run with
 ```
 npm start
-```
-
-In `package.json` replace
-```
-    "build": "parcel build index.html --public-url '/react-template'"
 ```

@@ -1,25 +1,26 @@
 {
-  "name": "react-template",
+  "name": "mondrian",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "start": "gatsby develop",
     "combine": "npx ts-node ./scripts/combine",
-    "build": "gatsby build",
+    "build": "gatsby build --prefix-paths",
+    "build-local": "gatsby build",
     "serve": "gatsby serve"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/flexiproducts/react-template.git"
+    "url": "git+https://github.com/flexiproducts/mondrian.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/flexiproducts/react-template/issues"
+    "url": "https://github.com/flexiproducts/mondrian/issues"
   },
-  "homepage": "https://github.com/flexiproducts/react-template#readme",
+  "homepage": "https://github.com/flexiproducts/mondrian#readme",
   "dependencies": {
     "@types/react": "^16.9.55",
     "@types/react-dom": "^16.9.9",
