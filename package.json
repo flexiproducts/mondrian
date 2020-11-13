@@ -4,9 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "parcel index.html",
+    "start": "gatsby develop",
     "combine": "npx ts-node ./scripts/combine",
-    "build": "parcel build index.html --public-url '/react-template'"
+    "build": "gatsby build",
+    "serve": "gatsby serve"
   },
   "repository": {
     "type": "git",
@@ -33,8 +34,10 @@
     "@typescript-eslint/eslint-plugin": "^4.6.0",
     "@typescript-eslint/parser": "^4.6.0",
     "eslint": "^7.12.1",
+    "gatsby": "^2.26.1",
+    "gatsby-cli": "^2.13.1",
+    "gatsby-plugin-styled-components": "^3.4.0",
     "husky": "^4.3.0",
-    "parcel-bundler": "^1.12.4",
     "prettier": "^2.1.2",
     "ts-node": "^9.0.0",
     "typescript": "^4.0.5"

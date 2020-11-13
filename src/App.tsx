@@ -1,13 +1,19 @@
 import React from 'react'
-import styled from 'styled-components'
+import styled, {createGlobalStyle} from 'styled-components'
 import MondrianSimplified from './MondrianSimplified'
 import {Mondrian} from './types'
-import example from '../example.json'
 
-export default function App() {
+type AppProps = {
+  pageContext: {
+    mondrian: Mondrian
+  }
+}
+
+export default function App({pageContext: {mondrian}}: AppProps) {
   return (
     <Main>
-      <MondrianSimplified mondrian={(example as unknown) as Mondrian} />
+      <GlobalStyle />
+      <MondrianSimplified mondrian={mondrian} />
     </Main>
   )
 }
@@ -19,4 +25,14 @@ const Main = styled.div`
   height: 100%;
   color: #242422;
   font-size: 75px;
+`
+
+const GlobalStyle = createGlobalStyle`
+    html, body, #___gatsby, #gatsby-focus-wrapper {
+      background-color:  #eeeee4;;
+      margin: 0;
+      height: 100vh;
+      font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto,
+    'Helvetica Neue', Arial, sans-serif;
+    }
 `
