@@ -3,6 +3,7 @@ import styled from 'styled-components'
 import {GlobalStyle} from '../GlobalStyle'
 import MondrianSimplified from '../components/MondrianSimplified'
 import {Mondrian} from '../types'
+import {withPrefix} from 'gatsby'
 
 type AppProps = {
   pageContext: {
@@ -14,7 +15,7 @@ export default function App({pageContext: {mondrian}}: AppProps) {
   return (
     <Main>
       <GlobalStyle />
-      <MondrianContainer href="/mondrian">
+      <MondrianContainer href={withPrefix('/')}>
         <MondrianSimplified mondrian={mondrian} />
       </MondrianContainer>
     </Main>

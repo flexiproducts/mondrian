@@ -1,3 +1,4 @@
+import {withPrefix} from 'gatsby'
 import React from 'react'
 import styled from 'styled-components'
 import {GlobalStyle} from '../GlobalStyle'
@@ -16,7 +17,7 @@ export default function App({pageContext: {mondrianList}}: AppProps) {
       <h1>mondrian 1920-1937</h1>
       <GlobalStyle />
       {mondrianList.map((mondrian) => (
-        <MondrianLink key={mondrian.id} href={mondrian.id}>
+        <MondrianLink key={mondrian.id} href={withPrefix(mondrian.id)}>
           <MondrianThumbnail mondrian={mondrian} />
         </MondrianLink>
       ))}
