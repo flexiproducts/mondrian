@@ -3,7 +3,6 @@ export type Mondrian = {
   width: number
   height: number
   rectangles: {
-    index: number
     x: number
     y: number
     width: number

@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import {Color, Mondrian} from './types'
+import {Color, Mondrian} from '../types'
 
 type MondrianSimplifiedProps = {
   mondrian: Mondrian
@@ -15,9 +15,9 @@ export default function MondrianSimplified({
       baseProfile="full"
       viewBox={`0 0 ${mondrian.width} ${mondrian.height}`}
     >
-      {mondrian.rectangles.map((rectangle) => (
+      {mondrian.rectangles.map((rectangle, index) => (
         <rect
-          key={rectangle.index}
+          key={index}
           x={rectangle.x}
           y={rectangle.y}
           height={rectangle.height}
@@ -40,7 +40,5 @@ const colors: Record<Color, string> = {
 }
 
 const SvgOuter = styled.svg`
-  overflow: visible;
-  height: 95%;
-  padding: 5px;
+  height: 100%;
 `
