@@ -4,6 +4,7 @@ import styled from 'styled-components'
 import {GlobalStyle} from '../GlobalStyle'
 import MondrianSimplified from '../components/MondrianSimplified'
 import {Mondrian} from '../types'
+import {Helmet} from 'react-helmet'
 
 type AppProps = {
   pageContext: {
@@ -14,6 +15,13 @@ type AppProps = {
 export default function App({pageContext: {mondrianList}}: AppProps) {
   return (
     <Main>
+      <Helmet>
+        <title>Abstract Mondrian Paintings 1920-1937</title>
+        <meta
+          name="description"
+          content="List of selected mondrian paintings in his most characteristic style from 1920 to 1937 in abstract representation"
+        />
+      </Helmet>
       <h1>mondrian 1920-1937</h1>
       <GlobalStyle />
       {mondrianList.map((mondrian) => (

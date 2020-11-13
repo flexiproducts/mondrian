@@ -4,6 +4,7 @@ import {GlobalStyle} from '../GlobalStyle'
 import MondrianSimplified from '../components/MondrianSimplified'
 import {Mondrian} from '../types'
 import {withPrefix} from 'gatsby'
+import {Helmet} from 'react-helmet'
 
 type AppProps = {
   pageContext: {
@@ -14,6 +15,18 @@ type AppProps = {
 export default function App({pageContext: {mondrian}}: AppProps) {
   return (
     <Main>
+      <Helmet>
+        <title>
+          Piet Mondrian:{' '}
+          {mondrian.description
+            .slice('Piet Mondriaan\n         \n\n    '.length)
+            .substring(0, 45)}
+        </title>
+        <meta
+          name="description"
+          content={`${mondrian.description} ${mondrian.id} ${mondrian.year}`}
+        />
+      </Helmet>
       <GlobalStyle />
       <MondrianContainer href={withPrefix('/')}>
         <MondrianSimplified mondrian={mondrian} />
