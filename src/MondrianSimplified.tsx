@@ -41,6 +41,6 @@ const colors: Record<Color, string> = {
 
 const SvgOuter = styled.svg`
   overflow: visible;
-  height: 95vh;
+  height: 95%;
   padding: 5px;
 `

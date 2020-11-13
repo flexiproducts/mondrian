@@ -1,4 +1,5 @@
 export type Mondrian = {
+  id: string
   width: number
   height: number
   rectangles: {

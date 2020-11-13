@@ -11,7 +11,7 @@ exports.createPages = async ({actions: {createPage}}) => {
 
   createPage({
     path: '/',
-    component: require.resolve('./src/App.tsx'),
-    context: {mondrian: mondrians[100]}
+    component: require.resolve('./src/Overview.tsx'),
+    context: {mondrianList: mondrians}
   })
 }
