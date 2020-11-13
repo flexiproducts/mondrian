@@ -1,0 +1,96 @@
+{
+    "height": 1000,
+    "width": 960,
+    "rectangles": [
+        {
+            "x": 0,
+            "y": 421,
+            "width": 241,
+            "height": 302,
+            "color": [
+                255,
+                255,
+                255
+            ],
+            "color_id": "white"
+        },
+        {
+            "x": 241,
+            "y": 723,
+            "width": 626,
+            "height": 277,
+            "color": [
+                255,
+                255,
+                255
+            ],
+            "color_id": "white"
+        },
+        {
+            "x": 867,
+            "y": 723,
+            "width": 93,
+            "height": 152,
+            "color": [
+                0,
+                0,
+                0
+            ],
+            "color_id": "black"
+        },
+        {
+            "x": 0,
+            "y": 723,
+            "width": 241,
+            "height": 277,
+            "color": [
+                255,
+                255,
+                255
+            ],
+            "color_id": "white"
+        },
+        {
+            "x": 867,
+            "y": 875,
+            "width": 93,
+            "height": 125,
+            "color": [
+                255,
+                255,
+                255
+            ],
+            "color_id": "white"
+        },
+        {
+            "x": 241,
+            "y": 0,
+            "width": 719,
+            "height": 723,
+            "color": [
+                255,
+                255,
+                255
+            ],
+            "color_id": "white"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "width": 241,
+            "height": 421,
+            "color": [
+                31,
+                21,
+                238
+            ],
+            "color_id": "red"
+        }
+    ],
+    "options": {
+        "binary_threshold": 110,
+        "min_line_length": 60,
+        "min_distance": 70,
+        "black_rectangle_dilate": 35
+    }
+}
