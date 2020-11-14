@@ -4,29 +4,29 @@ import {GlobalStyle} from '../GlobalStyle'
 import MondrianSimplified from '../components/MondrianSimplified'
 import {Mondrian} from '../types'
 import {withPrefix} from 'gatsby'
-import {Helmet} from 'react-helmet'
+import Head from '../components/Head'
 
 type AppProps = {
   pageContext: {
     mondrian: Mondrian
   }
+  location: {
+    pathname: string
+  }
 }
 
-export default function App({pageContext: {mondrian}}: AppProps) {
+// location
+
+export default function App({location, pageContext: {mondrian}}: AppProps) {
+  const title = `Piet Mondrian: 
+  ${mondrian.description
+    .slice('Piet Mondriaan\n         \n\n    '.length)
+    .substring(0, 45)}`
+
+  const description = `${mondrian.description} ${mondrian.id} ${mondrian.year}`
   return (
     <Main>
-      <Helmet>
-        <title>
-          Piet Mondrian:{' '}
-          {mondrian.description
-            .slice('Piet Mondriaan\n         \n\n    '.length)
-            .substring(0, 45)}
-        </title>
-        <meta
-          name="description"
-          content={`${mondrian.description} ${mondrian.id} ${mondrian.year}`}
-        />
-      </Helmet>
+      <Head title={title} description={description} path={location.pathname} />
       <GlobalStyle />
       <MondrianContainer href={withPrefix('/')}>
         <MondrianSimplified mondrian={mondrian} />

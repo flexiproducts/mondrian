@@ -7,9 +7,8 @@
     "start": "gatsby develop",
     "combine": "npx ts-node ./scripts/combine",
     "build": "gatsby build --prefix-paths",
-    "build-local": "gatsby build",
     "serve": "gatsby serve",
-    "build-serve": "npm run build-local && npm run serve"
+    "build-serve": "npm run build && npm run serve"
   },
   "repository": {
     "type": "git",
