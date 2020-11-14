@@ -1,4 +1,3 @@
 module.exports = {
-  plugins: ['gatsby-plugin-styled-components', 'gatsby-plugin-react-helmet'],
-  pathPrefix: `/mondrian`
+  plugins: ['gatsby-plugin-styled-components', 'gatsby-plugin-react-helmet']
 }
