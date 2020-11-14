@@ -36,9 +36,11 @@ export default function App({pageContext: {mondrian}}: AppProps) {
 }
 
 const MondrianContainer = styled.a`
-  display: block;
+  display: flex;
   height: 95vh;
   width: 95vw;
+  justify-content: center;
+  align-items: center;
 `
 
 const Main = styled.div`
