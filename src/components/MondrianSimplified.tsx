@@ -41,4 +41,5 @@ const colors: Record<Color, string> = {
 
 const SvgOuter = styled.svg`
   height: 100%;
+  width: 100%;
 `

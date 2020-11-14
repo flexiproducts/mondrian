@@ -38,7 +38,7 @@ export default function App({pageContext: {mondrian}}: AppProps) {
 const MondrianContainer = styled.a`
   display: block;
   height: 95vh;
-  max-width: 95vw;
+  width: 95vw;
 `
 
 const Main = styled.div`
