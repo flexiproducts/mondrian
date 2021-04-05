@@ -1,7 +1,6 @@
 {
-    "compilerOptions": {
-      "jsx": "react",
-      "esModuleInterop": true,
-      "resolveJsonModule": true,
-    }
+  "compilerOptions": {
+    "jsx": "react",
+    "esModuleInterop": true
   }
+}

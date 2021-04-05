@@ -1,9 +1,13 @@
 export type Mondrian = {
   id: string
+  title: string
   width: number
   height: number
   description: string
   year: string
+  date: string
+  publicDomain: boolean
+  database: string
   rectangles: {
     x: number
     y: number

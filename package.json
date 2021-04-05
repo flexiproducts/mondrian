@@ -6,6 +6,7 @@
   "scripts": {
     "start": "gatsby develop",
     "combine": "npx ts-node ./scripts/combine",
+    "scrape": "npx ts-node ./scripts/scrape-meta",
     "build": "gatsby build --prefix-paths",
     "serve": "gatsby serve",
     "build-serve": "npm run build && npm run serve"
@@ -26,6 +27,8 @@
     "@types/react-dom": "^16.9.9",
     "@types/react-helmet": "^6.1.0",
     "@types/styled-components": "^5.1.4",
+    "got": "^8.3.2",
+    "jsdom": "^16.5.2",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-helmet": "^6.1.0",

@@ -5,7 +5,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1920-1921-b104-b132/#272614",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\815\\1001217815.jpg&width=150&height=150",
     "year": "1920",
-    "description": " Piet Mondriaan\n         \n\n    No. VI dated 1920oil paint / canvas, 100,5\n        x\n        101 cmTate Gallery, London, no. T.915B104",
+    "description": "No. VI dated 1920oil paint / canvas, 100,5x101 cmTate Gallery, London, no. T.915B104",
     "state": 0,
     "height": 973,
     "width": 968,
@@ -352,7 +352,10 @@
       "min_line_length": 60,
       "min_distance": 70,
       "black_rectangle_dilate": 15
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1920 (1920)",
+    "title": "No. VI"
   },
   {
     "id": "B105",
@@ -360,7 +363,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1920-1921-b104-b132/#272625",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\229\\1001240229.jpg&width=150&height=150",
     "year": "1920",
-    "description": " Piet Mondriaan\n         \n\n    Composition A 1920oil paint / canvas, 90\n        x\n        91 cmGalleria Nazionale d'Arte Moderna \n           (Rome), Rome, no. 5519B105",
+    "description": "Composition A 1920oil paint / canvas, 90x91 cmGalleria Nazionale d'Arte Moderna \n           (Rome), Rome, no. 5519B105",
     "state": 0,
     "height": 984,
     "width": 1000,
@@ -695,7 +698,10 @@
       "min_line_length": 78,
       "min_distance": 32,
       "black_rectangle_dilate": 40
-    }
+    },
+    "publicDomain": true,
+    "date": "1920 (1920)",
+    "title": "Composition A"
   },
   {
     "id": "B106",
@@ -703,7 +709,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1920-1921-b104-b132/#272641",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\068\\1001241068.jpg&width=150&height=150",
     "year": "1920",
-    "description": " Piet Mondriaan\n         \n\n    Composition B dated 1920oil paint / canvas, 67\n        x\n        57,5 cmWilhelm Hack-Museum, Ludwigshafen am Rhein, no. 458/52B106",
+    "description": "Composition B dated 1920oil paint / canvas, 67x57,5 cmWilhelm Hack-Museum, Ludwigshafen am Rhein, no. 458/52B106",
     "state": 0,
     "height": 1000,
     "width": 850,
@@ -966,7 +972,10 @@
       "min_line_length": 60,
       "min_distance": 70,
       "black_rectangle_dilate": 45
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1920 (1920)",
+    "title": "Composition B"
   },
   {
     "id": "B107",
@@ -974,7 +983,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1920-1921-b104-b132/#272663",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\717\\1001348717.jpg&width=150&height=150",
     "year": "1920",
-    "description": " Piet Mondriaan\n         \n\n    Composition C dated 1920oil paint / canvas, 60,3\n        x\n        61 cm The Museum of Modern Art, New York City, no. 257.48B107",
+    "description": "Composition C dated 1920oil paint / canvas, 60,3x61 cm The Museum of Modern Art, New York City, no. 257.48B107",
     "state": 0,
     "height": 989,
     "width": 1000,
@@ -1273,7 +1282,10 @@
       "min_line_length": 60,
       "min_distance": 70,
       "black_rectangle_dilate": 45
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1920 (1920)",
+    "title": "Composition C"
   },
   {
     "id": "B108",
@@ -1281,7 +1293,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1920-1921-b104-b132/#272665",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\369\\1001218369.jpg&width=150&height=150",
     "year": "1920",
-    "description": " Piet Mondriaan\n         \n\n    Composition I dated 1920oil paint / canvas, 75\n        x\n        65 cmParis\n          (Christie's), 2009-02-23,\n          no. 44B108",
+    "description": "Composition I dated 1920oil paint / canvas, 75x65 cmParis\n          (Christie's), 2009-02-23,\n          no. 44B108",
     "state": 0,
     "height": 1000,
     "width": 865,
@@ -1592,7 +1604,10 @@
       "min_line_length": 60,
       "min_distance": 70,
       "black_rectangle_dilate": 45
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1920 (1920)",
+    "title": "Composition I"
   },
   {
     "id": "B109",
@@ -1600,7 +1615,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1920-1921-b104-b132/#272667",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\358\\1001218358.jpg&width=150&height=150",
     "year": "1920",
-    "description": " Piet Mondriaan\n         \n\n    Composition II dated 1920oil paint / canvas, 63\n        x\n        56 cmPrivate collectionB109",
+    "description": "Composition II dated 1920oil paint / canvas, 63x56 cmPrivate collectionB109",
     "state": 0,
     "height": 1000,
     "width": 896,
@@ -1851,7 +1866,10 @@
       "min_line_length": 60,
       "min_distance": 70,
       "black_rectangle_dilate": 45
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1920 (1920)",
+    "title": "Composition II"
   },
   {
     "id": "B114",
@@ -1859,7 +1877,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1920-1921-b104-b132/#218858",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\629\\1001241629.jpg&width=150&height=150",
     "year": "1920",
-    "description": " Piet Mondriaan\n         \n\n    Composition with yellow, red, black, blue and gray dated 1920oil paint / canvas, 51,5\n        x\n        61 cmStedelijk Museum Amsterdam, Amsterdam, no. A 9864B114",
+    "description": "Composition with yellow, red, black, blue and gray dated 1920oil paint / canvas, 51,5x61 cmStedelijk Museum Amsterdam, Amsterdam, no. A 9864B114",
     "state": 0,
     "height": 860,
     "width": 1000,
@@ -2086,7 +2104,10 @@
       "min_line_length": 130,
       "min_distance": 70,
       "black_rectangle_dilate": 35
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1920 (1920)",
+    "title": "Composition with yellow, red, black, blue and gray"
   },
   {
     "id": "B115",
@@ -2094,7 +2115,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1920-1921-b104-b132/#218862",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\511\\1001230511.jpg&width=150&height=150",
     "year": "1921",
-    "description": " Piet Mondriaan\n         \n\n    Composition with red, black, yellow, blue and grey dated 1921oil paint / canvas, 80\n        x\n        50 cmGemeentemuseum Den Haag, The Hague, no. 0333163 / sch-1955-0022B115",
+    "description": "Composition with red, black, yellow, blue and grey dated 1921oil paint / canvas, 80x50 cmGemeentemuseum Den Haag, The Hague, no. 0333163 / sch-1955-0022B115",
     "state": 0,
     "height": 966,
     "width": 589,
@@ -2333,7 +2354,10 @@
       "min_line_length": 60,
       "min_distance": 70,
       "black_rectangle_dilate": 45
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1921 (1921)",
+    "title": "Composition with red, black, yellow, blue and grey"
   },
   {
     "id": "B116",
@@ -2341,7 +2365,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1920-1921-b104-b132/#218095",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\634\\1001241634.jpg&width=150&height=150",
     "year": "1921",
-    "description": " Piet Mondriaan\n         \n\n    Composition with yellow, blue, black, red, and gray dated 1921oil paint / canvas, 88,5\n        x\n        72,5 cmart dealer \n        Stephen Mazoh & Co. Inc., New York City/Rhinebeck (NY)B116",
+    "description": "Composition with yellow, blue, black, red, and gray dated 1921oil paint / canvas, 88,5x72,5 cmart dealer \n        Stephen Mazoh & Co. Inc., New York City/Rhinebeck (NY)B116",
     "state": 0,
     "height": 1000,
     "width": 821,
@@ -2628,7 +2652,10 @@
       "min_line_length": 60,
       "min_distance": 70,
       "black_rectangle_dilate": 45
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1921 (1921)",
+    "title": "Composition with yellow, blue, black, red, and gray"
   },
   {
     "id": "B117",
@@ -2636,7 +2663,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1920-1921-b104-b132/#274120",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\512\\1001230512.jpg&width=150&height=150",
     "year": "1921",
-    "description": " Piet Mondriaan\n         \n\n    Composition with large blue plane, red, black, yellow and gray dated 1921oil paint / canvas, 60,5\n        x\n        50 cmDallas Museum of Art, Dallas (Texas), no. 1984.200.FAB117",
+    "description": "Composition with large blue plane, red, black, yellow and gray dated 1921oil paint / canvas, 60,5x50 cmDallas Museum of Art, Dallas (Texas), no. 1984.200.FAB117",
     "state": 0,
     "height": 1000,
     "width": 823,
@@ -2791,7 +2818,10 @@
       "min_line_length": 60,
       "min_distance": 70,
       "black_rectangle_dilate": 35
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1921 (1921)",
+    "title": "Composition with large blue plane, red, black, yellow and gray"
   },
   {
     "id": "B120",
@@ -2799,7 +2829,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1920-1921-b104-b132/#274125",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\515\\1001230515.jpg&width=150&height=150",
     "year": "1921",
-    "description": " Piet Mondriaan\n         \n\n    Composition with large red plane, black, blue, yellow and gray dated 1921oil paint / canvas, 48\n        x\n        48 cmThe Judith Rothschild Foundation, New York CityB120",
+    "description": "Composition with large red plane, black, blue, yellow and gray dated 1921oil paint / canvas, 48x48 cmThe Judith Rothschild Foundation, New York CityB120",
     "state": 0,
     "height": 1000,
     "width": 990,
@@ -2942,7 +2972,10 @@
       "min_line_length": 130,
       "min_distance": 51,
       "black_rectangle_dilate": 40
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1921 (1921)",
+    "title": "Composition with large red plane, black, blue, yellow and gray"
   },
   {
     "id": "B122",
@@ -2950,7 +2983,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1920-1921-b104-b132/#274128",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\520\\1001230520.jpg&width=150&height=150",
     "year": "1921",
-    "description": " Piet Mondriaan\n         \n\n    Tableau dated 1921oil paint / canvas, 49,5\n        x\n        49,5 cm The Metropolitan Museum of Art, New York City, no. 1999.363.57B122",
+    "description": "Tableau dated 1921oil paint / canvas, 49,5x49,5 cm The Metropolitan Museum of Art, New York City, no. 1999.363.57B122",
     "state": 0,
     "height": 1594,
     "width": 1584,
@@ -3105,7 +3138,10 @@
       "min_line_length": 70,
       "min_distance": 70,
       "black_rectangle_dilate": 75
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1921 (1921)",
+    "title": "Tableau"
   },
   {
     "id": "B123",
@@ -3113,7 +3149,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1920-1921-b104-b132/#274135",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\753\\1001240753.jpg&width=150&height=150",
     "year": "1921",
-    "description": " Piet Mondriaan\n         \n\n    Tableau 3 dated 1921oil paint / canvas, 49,5\n        x\n        41,5 cmEmanuel Hoffmann-Stiftung, Bazel (Switzerland), no. H 1937-3B123",
+    "description": "Tableau 3 dated 1921oil paint / canvas, 49,5x41,5 cmEmanuel Hoffmann-Stiftung, Bazel (Switzerland), no. H 1937-3B123",
     "state": 0,
     "height": 969,
     "width": 820,
@@ -3244,7 +3280,10 @@
       "min_line_length": 60,
       "min_distance": 70,
       "black_rectangle_dilate": 35
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1921 (1921)",
+    "title": "Tableau 3"
   },
   {
     "id": "B125",
@@ -3252,7 +3291,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1920-1921-b104-b132/#218860",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\526\\1001230526.jpg&width=150&height=150",
     "year": "1921",
-    "description": " Piet Mondriaan\n         \n\n    Compositie met rood, blauw, zwart, geel en grijs dated 1921oil paint / canvas, 39,5\n        x\n        35 cmGemeentemuseum Den Haag, The Hague, no. 0334328 / sch-1971-0170B125",
+    "description": "Compositie met rood, blauw, zwart, geel en grijs dated 1921oil paint / canvas, 39,5x35 cmGemeentemuseum Den Haag, The Hague, no. 0334328 / sch-1971-0170B125",
     "state": 0,
     "height": 936,
     "width": 826,
@@ -3359,7 +3398,10 @@
       "min_line_length": 60,
       "min_distance": 70,
       "black_rectangle_dilate": 45
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1921 (1921)",
+    "title": "Compositie met rood, blauw, zwart, geel en grijs"
   },
   {
     "id": "B126",
@@ -3367,7 +3409,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1920-1921-b104-b132/#274138",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\635\\1001241635.jpg&width=150&height=150",
     "year": "1921",
-    "description": " Piet Mondriaan\n         \n\n    Tableau I dated 1921oil paint / canvas, 96,5\n        x\n        60,5 cmMuseum Ludwig, Cologne, no. 76/3195B126",
+    "description": "Tableau I dated 1921oil paint / canvas, 96,5x60,5 cmMuseum Ludwig, Cologne, no. 76/3195B126",
     "state": 0,
     "height": 1000,
     "width": 624,
@@ -3510,7 +3552,10 @@
       "min_line_length": 55,
       "min_distance": 70,
       "black_rectangle_dilate": 25
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1921 (1921)",
+    "title": "Tableau I"
   },
   {
     "id": "B128",
@@ -3518,7 +3563,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1920-1921-b104-b132/#220211",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\551\\1001230551.jpg&width=150&height=150",
     "year": "1921",
-    "description": " Piet Mondriaan\n         \n\n    Tableau I dated 1921oil paint / canvas, 103\n        x\n        100 cmGemeentemuseum Den Haag, The Hague, no. 0334327 / sch-1971-0169B128",
+    "description": "Tableau I dated 1921oil paint / canvas, 103x100 cmGemeentemuseum Den Haag, The Hague, no. 0334327 / sch-1971-0169B128",
     "state": 0,
     "height": 977,
     "width": 934,
@@ -3685,7 +3730,10 @@
       "min_line_length": 40,
       "min_distance": 70,
       "black_rectangle_dilate": 29
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1921 (1921)",
+    "title": "Tableau I"
   },
   {
     "id": "B129",
@@ -3693,7 +3741,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1920-1921-b104-b132/#274162",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\636\\1001241636.jpg&width=150&height=150",
     "year": "1921",
-    "description": " Piet Mondriaan\n         \n\n    Tableau II dated 1921oil paint / canvas, 101\n        x\n        99 cmPrivate collection, no. 1984/69B129",
+    "description": "Tableau II dated 1921oil paint / canvas, 101x99 cmPrivate collection, no. 1984/69B129",
     "state": 0,
     "height": 1000,
     "width": 966,
@@ -3860,7 +3908,10 @@
       "min_line_length": 78,
       "min_distance": 32,
       "black_rectangle_dilate": 40
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1921 (1921)",
+    "title": "Tableau II"
   },
   {
     "id": "B130",
@@ -3868,7 +3919,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1920-1921-b104-b132/#218084",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\568\\1001230568.jpg&width=150&height=150",
     "year": "1921",
-    "description": " Piet Mondriaan\n         \n\n    Composition with large red plane, yellow, black, gray and blue dated 1921oil paint / canvas, 59,5\n        x\n        59,5 cmGemeentemuseum Den Haag, The Hague, no. 0333329 / sch-1957-0071B130",
+    "description": "Composition with large red plane, yellow, black, gray and blue dated 1921oil paint / canvas, 59,5x59,5 cmGemeentemuseum Den Haag, The Hague, no. 0333329 / sch-1957-0071B130",
     "state": 0,
     "height": 950,
     "width": 945,
@@ -4119,7 +4170,10 @@
       "min_line_length": 78,
       "min_distance": 32,
       "black_rectangle_dilate": 40
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1921 (1921)",
+    "title": "Composition with large red plane, yellow, black, gray and blue"
   },
   {
     "id": "B131",
@@ -4127,7 +4181,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1920-1921-b104-b132/#274176",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\752\\1001240752.jpg&width=150&height=150",
     "year": "1921",
-    "description": " Piet Mondriaan\n         \n\n    Composition with red, yellow, black, blue, and gray dated 1921oil paint / canvas, 48\n        x\n        38 cmVereniging Rembrandt, AmsterdamB131",
+    "description": "Composition with red, yellow, black, blue, and gray dated 1921oil paint / canvas, 48x38 cmVereniging Rembrandt, AmsterdamB131",
     "state": 0,
     "height": 957,
     "width": 760,
@@ -4255,7 +4309,10 @@
     ],
     "options": {
       "binary_threshold": 110
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1921 (1921)",
+    "title": "Composition with red, yellow, black, blue, and gray"
   },
   {
     "id": "B132",
@@ -4263,7 +4320,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1920-1921-b104-b132/#274181",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\711\\1001348711.jpg&width=150&height=150",
     "year": "1921",
-    "description": " Piet Mondriaan\n         \n\n    Composition with red, blue, black, yellow and gray dated 1921oil paint / canvas, 76\n        x\n        52,4 cm The Museum of Modern Art, New York City, no. 154.57B132",
+    "description": "Composition with red, blue, black, yellow and gray dated 1921oil paint / canvas, 76x52,4 cm The Museum of Modern Art, New York City, no. 154.57B132",
     "state": 0,
     "height": 1000,
     "width": 689,
@@ -4430,7 +4487,10 @@
       "min_line_length": 60,
       "min_distance": 70,
       "black_rectangle_dilate": 45
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1921 (1921)",
+    "title": "Composition with red, blue, black, yellow and gray"
   },
   {
     "id": "B134",
@@ -4438,7 +4498,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1922-1923-b133-b150/#251106",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\693\\1001232693.jpg&width=150&height=150",
     "year": "1922",
-    "description": " Piet Mondriaan\n         \n\n    Composition with blue, yellow, red and gray dated 1922oil paint / canvas, 38\n        x\n        34,8 cmPrivate collectionB134",
+    "description": "Composition with blue, yellow, red and gray dated 1922oil paint / canvas, 38x34,8 cmPrivate collectionB134",
     "state": 0,
     "height": 1000,
     "width": 878,
@@ -4545,7 +4605,10 @@
       "min_line_length": 60,
       "min_distance": 70,
       "black_rectangle_dilate": 35
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1922 (1922)",
+    "title": "Composition with blue, yellow, red and gray"
   },
   {
     "id": "B135",
@@ -4553,7 +4616,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1922-1923-b133-b150/#251127",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\920\\1001213920.jpg&width=150&height=150",
     "year": "1922",
-    "description": " Piet Mondriaan\n         \n\n    Composition with blue, black, yellow and red dated 1922oil paint / canvas, 39\n        x\n        34,7 cmBusch-Reisinger Museum, Cambridge (Massachusetts), no. 2000.1B135",
+    "description": "Composition with blue, black, yellow and red dated 1922oil paint / canvas, 39x34,7 cmBusch-Reisinger Museum, Cambridge (Massachusetts), no. 2000.1B135",
     "state": 0,
     "height": 964,
     "width": 853,
@@ -4660,7 +4723,10 @@
       "min_line_length": 40,
       "min_distance": 70,
       "black_rectangle_dilate": 37
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1922 (1922)",
+    "title": "Composition with blue, black, yellow and red"
   },
   {
     "id": "B136",
@@ -4668,7 +4734,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1922-1923-b133-b150/#251133",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\951\\1001240951.jpg&width=150&height=150",
     "year": "1922",
-    "description": " Piet Mondriaan\n         \n\n    Composition with blue, black, yellow and red dated 1922gouache (material/technique) / paper, 410\n        x\n        490 mmNationalgalerie \n           (Berlijn), Berlin, no. 46/597B136",
+    "description": "Composition with blue, black, yellow and red dated 1922gouache (material/technique) / paper, 410x490 mmNationalgalerie \n           (Berlijn), Berlin, no. 46/597B136",
     "state": 0,
     "height": 852,
     "width": 1000,
@@ -4787,7 +4853,10 @@
       "min_line_length": 45,
       "min_distance": 70,
       "black_rectangle_dilate": 45
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1922 (1922)",
+    "title": "Composition with blue, black, yellow and red"
   },
   {
     "id": "B137",
@@ -4795,7 +4864,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1922-1923-b133-b150/#251248",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\637\\1001241637.jpg&width=150&height=150",
     "year": "1922",
-    "description": " Piet Mondriaan\n         \n\n    Composition with red, blue, yellow, black and gray dated 1922oil paint / canvas, 41,9\n        x\n        48,6 cmToledo Museum of Art, Toledo (Ohio), no. 78.44B137",
+    "description": "Composition with red, blue, yellow, black and gray dated 1922oil paint / canvas, 41,9x48,6 cmToledo Museum of Art, Toledo (Ohio), no. 78.44B137",
     "state": 0,
     "height": 822,
     "width": 967,
@@ -4914,7 +4983,10 @@
       "min_line_length": 40,
       "min_distance": 70,
       "black_rectangle_dilate": 45
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1922 (1922)",
+    "title": "Composition with red, blue, yellow, black and gray"
   },
   {
     "id": "B138",
@@ -4922,7 +4994,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1922-1923-b133-b150/#220214",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\553\\1001169553.jpg&width=150&height=150",
     "year": "1922",
-    "description": " Piet Mondriaan\n         \n\n    Composition with blue, yellow, red, black, and gray dated 1922oil paint / canvas, 42\n        x\n        50 cmStedelijk Museum Amsterdam, Amsterdam, no. no. A 1996B138",
+    "description": "Composition with blue, yellow, red, black, and gray dated 1922oil paint / canvas, 42x50 cmStedelijk Museum Amsterdam, Amsterdam, no. no. A 1996B138",
     "state": 0,
     "height": 818,
     "width": 965,
@@ -5029,7 +5101,10 @@
       "min_line_length": 70,
       "min_distance": 70,
       "black_rectangle_dilate": 45
-    }
+    },
+    "publicDomain": false,
+    "date": "dated 1922 (1922)",
+    "title": "Composition with blue, yellow, red, black, and gray"
   },
   {
     "id": "B139",
@@ -5037,7 +5112,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1922-1923-b133-b150/#251256",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\755\\1001240755.jpg&width=150&height=150",
     "year": "1922",
-    "description": " Piet Mondriaan\n         \n\n    Composition with yellow, black, blue, red, and gray dated 1922oil paint / canvas, 40\n        x\n        50 cmMusée d'Orsay, Paris, no. RF 2000 45B139",
+    "description": "Composition with yellow, black, blue, red, and gray dated 1922oil paint / canvas, 40x50 cmMusée d'Orsay, Paris, no. RF 2000 45B139",
     "state": 0,
     "height": 793,
     "width": 1000,
@@ -5132,7 +5207,10 @@
       "min_line_length": 54,
       "min_distance": 70,
       "black_rectangle_dilate": 45
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1922 (1922)",
+    "title": "Composition with yellow, black, blue, red, and gray"
   },
   {
     "id": "B141",
@@ -5140,7 +5218,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1922-1923-b133-b150/#251268",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\473\\1001235473.jpg&width=150&height=150",
     "year": "1922",
-    "description": " Piet Mondriaan\n         \n\n    Composition with blue, yellow, red , and black dated 1922oil paint / canvas, 42\n        x\n        48,5 cmMinneapolis Institute of Arts, Minneapolis (Minnesota), no. 65.5B141",
+    "description": "Composition with blue, yellow, red , and black dated 1922oil paint / canvas, 42x48,5 cmMinneapolis Institute of Arts, Minneapolis (Minnesota), no. 65.5B141",
     "state": 0,
     "height": 798,
     "width": 927,
@@ -5271,7 +5349,10 @@
       "min_line_length": 60,
       "min_distance": 70,
       "black_rectangle_dilate": 45
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1922 (1922)",
+    "title": "Composition with blue, yellow, red , and black"
   },
   {
     "id": "B142",
@@ -5279,7 +5360,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1922-1923-b133-b150/#251275",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\754\\1001240754.jpg&width=150&height=150",
     "year": "1922",
-    "description": " Piet Mondriaan\n         \n\n    Composition with blue, red, yellow, and black 1922oil paint / canvas, 79\n        x\n        49,5 cmLouvre Abu Dhabi, Abu DhabiB142",
+    "description": "Composition with blue, red, yellow, and black 1922oil paint / canvas, 79x49,5 cmLouvre Abu Dhabi, Abu DhabiB142",
     "state": 0,
     "height": 975,
     "width": 607,
@@ -5409,7 +5490,10 @@
       "binary_threshold": 110,
       "min_line_length": 70,
       "min_distance_factor": 0.065
-    }
+    },
+    "publicDomain": true,
+    "date": "1922 (1922)",
+    "title": "Composition with blue, red, yellow, and black"
   },
   {
     "id": "B143",
@@ -5417,7 +5501,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1922-1923-b133-b150/#251284",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\571\\1001244571.jpg&width=150&height=150",
     "year": "1922",
-    "description": " Piet Mondriaan\n         \n\n    Composition with yellow, blue, and blue-white dated 1922oil paint / canvas, 55,3\n        x\n        53,3 cm The Menil Collection, Houston (Texas), no. V 204B143",
+    "description": "Composition with yellow, blue, and blue-white dated 1922oil paint / canvas, 55,3x53,3 cm The Menil Collection, Houston (Texas), no. V 204B143",
     "state": 0,
     "height": 995,
     "width": 956,
@@ -5548,7 +5632,10 @@
       "min_line_length": 40,
       "min_distance": 70,
       "black_rectangle_dilate": 40
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1922 (1922)",
+    "title": "Composition with yellow, blue, and blue-white"
   },
   {
     "id": "B144",
@@ -5556,7 +5643,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1922-1923-b133-b150/#251380",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\570\\1001244570.jpg&width=150&height=150",
     "year": "1922",
-    "description": " Piet Mondriaan\n         \n\n    Composition with large red plane, bluish gray, yellow, black, and blue dated 1922oil paint / canvas, 54\n        x\n        53,4 cmPrivate collectionB144",
+    "description": "Composition with large red plane, bluish gray, yellow, black, and blue dated 1922oil paint / canvas, 54x53,4 cmPrivate collectionB144",
     "state": 0,
     "height": 1000,
     "width": 978,
@@ -5723,7 +5810,10 @@
       "min_line_length": 60,
       "min_distance": 70,
       "black_rectangle_dilate": 40
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1922 (1922)",
+    "title": "Composition with large red plane, bluish gray, yellow, black, and blue"
   },
   {
     "id": "B145",
@@ -5731,7 +5821,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1922-1923-b133-b150/#251389",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\314\\1001241314.jpg&width=150&height=150",
     "year": "1922",
-    "description": " Piet Mondriaan\n         \n\n    Composition with blue, yellow, black, and red dated 1922oil paint / canvas, 53\n        x\n        54 cmStaatsgalerie Stuttgart, Stuttgart, no. 3353B145",
+    "description": "Composition with blue, yellow, black, and red dated 1922oil paint / canvas, 53x54 cmStaatsgalerie Stuttgart, Stuttgart, no. 3353B145",
     "state": 0,
     "height": 983,
     "width": 1000,
@@ -5874,7 +5964,10 @@
       "min_line_length": 60,
       "min_distance": 70,
       "black_rectangle_dilate": 45
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1922 (1922)",
+    "title": "Composition with blue, yellow, black, and red"
   },
   {
     "id": "B146",
@@ -5882,7 +5975,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1922-1923-b133-b150/#258738",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\905\\1001240905.jpg&width=150&height=150",
     "year": "1922",
-    "description": " Piet Mondriaan\n         \n\n    Tableau 2 dated 1922oil paint / canvas, 55,6\n        x\n        53,4 cmSolomon R. Guggenheim Museum, New York City, no. 51.1309B146",
+    "description": "Tableau 2 dated 1922oil paint / canvas, 55,6x53,4 cmSolomon R. Guggenheim Museum, New York City, no. 51.1309B146",
     "state": 0,
     "height": 957,
     "width": 921,
@@ -6001,7 +6094,10 @@
       "min_line_length": 60,
       "min_distance": 70,
       "black_rectangle_dilate": 35
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1922 (1922)",
+    "title": "Tableau 2"
   },
   {
     "id": "B147",
@@ -6009,7 +6105,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1922-1923-b133-b150/#251406",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\128\\1001243128.jpg&width=150&height=150",
     "year": "1922",
-    "description": " Piet Mondriaan\n         \n\n    Compostion with red, black, yellow, blue, and gray dated 1922oil paint / canvas, 50,1\n        x\n        39 cmPrivate collectionB147",
+    "description": "Compostion with red, black, yellow, blue, and gray dated 1922oil paint / canvas, 50,1x39 cmPrivate collectionB147",
     "state": 0,
     "height": 1000,
     "width": 778,
@@ -6116,7 +6212,10 @@
       "min_line_length": 55,
       "min_distance": 70,
       "black_rectangle_dilate": 50
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1922 (1922)",
+    "title": "Compostion with red, black, yellow, blue, and gray"
   },
   {
     "id": "B150",
@@ -6124,7 +6223,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1922-1923-b133-b150/#251630",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\724\\1001240724.jpg&width=150&height=150",
     "year": "1923",
-    "description": " Piet Mondriaan\n         \n\n    Tableau dated 1923oil paint / canvas, 54\n        x\n        53,5 cmmuseum \n        Museu Berardo \n           (Lissabon), Lissabon, no. UID 102-850B150",
+    "description": "Tableau dated 1923oil paint / canvas, 54x53,5 cmmuseum \n        Museu Berardo \n           (Lissabon), Lissabon, no. UID 102-850B150",
     "state": 0,
     "height": 1000,
     "width": 981,
@@ -6255,7 +6354,10 @@
       "min_line_length": 78,
       "min_distance": 32,
       "black_rectangle_dilate": 40
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1923 (1923)",
+    "title": "Tableau"
   },
   {
     "id": "B153",
@@ -6263,7 +6365,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1924-1926-b151.156-b181/#255165",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\127\\1001245127.jpg&width=150&height=150",
     "year": "1921",
-    "description": " Piet Mondriaan\n         \n\n    Tableau no. I dated 1921-1925oil paint / canvas, 75,3\n        x\n        65 cmFondation Beyeler, Bazel (Switzerland)B113.153 (second state)",
+    "description": "Tableau no. I dated 1921-1925oil paint / canvas, 75,3x65 cmFondation Beyeler, Bazel (Switzerland)B113.153 (second state)",
     "state": 2,
     "height": 1000,
     "width": 864,
@@ -6598,7 +6700,10 @@
       "min_line_length": 60,
       "min_distance": 70,
       "black_rectangle_dilate": 45
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1921-1925 (1920 - 1925)",
+    "title": "Tableau no. I"
   },
   {
     "id": "B154",
@@ -6606,7 +6711,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1924-1926-b151.156-b181/#255144",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\527\\1001245527.jpg&width=150&height=150",
     "year": "1921",
-    "description": " Piet Mondriaan\n         \n\n    Tableau no. II dated 1921-1925oil paint / canvas, 75\n        x\n        65 cmPrivate collectionB121.154 (second state)",
+    "description": "Tableau no. II dated 1921-1925oil paint / canvas, 75x65 cmPrivate collectionB121.154 (second state)",
     "state": 2,
     "height": 1000,
     "width": 861,
@@ -6917,7 +7022,10 @@
       "min_line_length": 78,
       "min_distance": 32,
       "black_rectangle_dilate": 40
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1921-1925 (1921 - 1925)",
+    "title": "Tableau no. II"
   },
   {
     "id": "B155",
@@ -6925,7 +7033,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1924-1926-b151.156-b181/#255043",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\569\\1001244569.jpg&width=150&height=150",
     "year": "1922",
-    "description": " Piet Mondriaan\n         \n\n    Tableau no. III dated 1922-1925oil paint / canvas, 49,2\n        x\n        49,2 cmThe Phillips Collection, Washington (D.C.), no. 1376B133.155 (second state)",
+    "description": "Tableau no. III dated 1922-1925oil paint / canvas, 49,2x49,2 cmThe Phillips Collection, Washington (D.C.), no. 1376B133.155 (second state)",
     "state": 2,
     "height": 886,
     "width": 883,
@@ -7056,7 +7164,10 @@
       "min_line_length": 60,
       "min_distance": 70,
       "black_rectangle_dilate": 45
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1922-1925 (1922 - 1925)",
+    "title": "Tableau no. III"
   },
   {
     "id": "B159",
@@ -7064,7 +7175,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1924-1926-b151.156-b181/#251693",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\215\\1001240215.jpg&width=150&height=150",
     "year": "1925",
-    "description": " Piet Mondriaan\n         \n\n    Tableau no. VII dated 1925oil paint / canvas, 48,5\n        x\n        43,5 cmKaiser Wilhelm Museum, Krefeld, no. 360B159",
+    "description": "Tableau no. VII dated 1925oil paint / canvas, 48,5x43,5 cmKaiser Wilhelm Museum, Krefeld, no. 360B159",
     "state": 0,
     "height": 955,
     "width": 862,
@@ -7168,7 +7279,10 @@
     ],
     "options": {
       "binary_threshold": 110
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1925 (1925)",
+    "title": "Tableau no. VII"
   },
   {
     "id": "B160",
@@ -7176,7 +7290,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1924-1926-b151.156-b181/#251698",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\334\\1001243334.jpg&width=150&height=150",
     "year": "1925",
-    "description": " Piet Mondriaan\n         \n\n    Tableau no. VIII 1925oil paint / canvas, 49\n        x\n        41,5 cmPrivate collectionB160",
+    "description": "Tableau no. VIII 1925oil paint / canvas, 49x41,5 cmPrivate collectionB160",
     "state": 0,
     "height": 1000,
     "width": 864,
@@ -7307,7 +7421,10 @@
       "min_line_length": 60,
       "min_distance": 70,
       "black_rectangle_dilate": 35
-    }
+    },
+    "publicDomain": true,
+    "date": "1925 (1925)",
+    "title": "Tableau no. VIII"
   },
   {
     "id": "B162",
@@ -7315,7 +7432,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1924-1926-b151.156-b181/#251703",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\264\\1001240264.jpg&width=150&height=150",
     "year": "1925",
-    "description": " Piet Mondriaan\n         \n\n    Tableau no. X dated 1925oil paint / canvas, 49\n        x\n        42,5 cmKaiser Wilhelm Museum, Krefeld, no. 359B162",
+    "description": "Tableau no. X dated 1925oil paint / canvas, 49x42,5 cmKaiser Wilhelm Museum, Krefeld, no. 359B162",
     "state": 0,
     "height": 953,
     "width": 838,
@@ -7419,7 +7536,10 @@
     ],
     "options": {
       "binary_threshold": 110
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1925 (1925)",
+    "title": "Tableau no. X"
   },
   {
     "id": "B163",
@@ -7427,7 +7547,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1924-1926-b151.156-b181/#251721",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\231\\1001240231.jpg&width=150&height=150",
     "year": "1922",
-    "description": " Piet Mondriaan\n         \n\n    Tableau no. XI dated 1922oil paint / canvas, 38,5\n        x\n        34,5 cmKaiser Wilhelm Museum, Krefeld, no. 358B163",
+    "description": "Tableau no. XI dated 1922oil paint / canvas, 38,5x34,5 cmKaiser Wilhelm Museum, Krefeld, no. 358B163",
     "state": 0,
     "height": 951,
     "width": 854,
@@ -7534,7 +7654,10 @@
       "min_line_length": 60,
       "min_distance": 70,
       "black_rectangle_dilate": 35
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1922 (1922 - 1925)",
+    "title": "Tableau no. XI"
   },
   {
     "id": "B170",
@@ -7542,7 +7665,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1924-1926-b151.156-b181/#252779",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\698\\1001348698.jpg&width=150&height=150",
     "year": "1926",
-    "description": " Piet Mondriaan\n         \n\n    Komposition II dated 1926oil paint / canvas, 50,8\n        x\n        50,8 cmNew York City\n          (Christie's), 2009-11-03,\n          no. 29B170",
+    "description": "Komposition II dated 1926oil paint / canvas, 50,8x50,8 cmNew York City\n          (Christie's), 2009-11-03,\n          no. 29B170",
     "state": 0,
     "height": 944,
     "width": 951,
@@ -7625,7 +7748,10 @@
       "min_line_length": 60,
       "min_distance": 70,
       "black_rectangle_dilate": 35
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1926 (1926)",
+    "title": "Komposition II"
   },
   {
     "id": "B172",
@@ -7633,7 +7759,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1924-1926-b151.156-b181/#252827",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\234\\1001240234.jpg&width=150&height=150",
     "year": "1926",
-    "description": " Piet Mondriaan\n         \n\n    Komposition IV dated 1926oil paint / canvas, 40\n        x\n        30 cmKaiser Wilhelm Museum, Krefeld, no. 361B172",
+    "description": "Komposition IV dated 1926oil paint / canvas, 40x30 cmKaiser Wilhelm Museum, Krefeld, no. 361B172",
     "state": 0,
     "height": 931,
     "width": 697,
@@ -7727,7 +7853,10 @@
       "binary_threshold": 110,
       "min_line_length": 70,
       "min_distance_factor": 0.069
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1926 (1926)",
+    "title": "Komposition IV"
   },
   {
     "id": "B182",
@@ -7735,7 +7864,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1927-1928-b182-b205/#252964",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\765\\1001245765.jpg&width=150&height=150",
     "year": "1927",
-    "description": " Piet Mondriaan\n         \n\n    Composition with yellow, red, and blue dated 1927oil paint / canvas, 38\n        x\n        34,5 cmPrivate collectionB182",
+    "description": "Composition with yellow, red, and blue dated 1927oil paint / canvas, 38x34,5 cmPrivate collectionB182",
     "state": 0,
     "height": 948,
     "width": 868,
@@ -7842,7 +7971,10 @@
       "min_line_length": 40,
       "min_distance": 70,
       "black_rectangle_dilate": 40
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1927 (1927)",
+    "title": "Composition with yellow, red, and blue"
   },
   {
     "id": "B183",
@@ -7850,7 +7982,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1927-1928-b182-b205/#252970",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\564\\1001236564.jpg&width=150&height=150",
     "year": "1927",
-    "description": " Piet Mondriaan\n         \n\n    Composition with blue, black, and gray dated 1927oil paint / canvas, 38,2\n        x\n        35 cmTel Aviv Museum of Art, Tel Aviv, no. 1407/13B183",
+    "description": "Composition with blue, black, and gray dated 1927oil paint / canvas, 38,2x35 cmTel Aviv Museum of Art, Tel Aviv, no. 1407/13B183",
     "state": 0,
     "height": 951,
     "width": 887,
@@ -7933,7 +8065,10 @@
       "min_line_length": 38,
       "min_distance": 70,
       "black_rectangle_dilate": 45
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1927 (1927)",
+    "title": "Composition with blue, black, and gray"
   },
   {
     "id": "B185",
@@ -7941,7 +8076,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1927-1928-b182-b205/#252984",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\057\\1001337057.jpg&width=150&height=150",
     "year": "1927",
-    "description": " Piet Mondriaan\n         \n\n    Composition with blue, yellow, and red dated 1927oil paint / canvas, 39,8\n        x\n        50,3 cmMuseum of Fine Arts Boston, Boston (Massachusetts), no. 2009.5042B185",
+    "description": "Composition with blue, yellow, and red dated 1927oil paint / canvas, 39,8x50,3 cmMuseum of Fine Arts Boston, Boston (Massachusetts), no. 2009.5042B185",
     "state": 0,
     "height": 750,
     "width": 953,
@@ -8060,7 +8195,10 @@
       "min_line_length": 40,
       "min_distance": 32,
       "black_rectangle_dilate": 40
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1927 (1927)",
+    "title": "Composition with blue, yellow, and red"
   },
   {
     "id": "B187",
@@ -8068,7 +8206,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1927-1928-b182-b205/#253004",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\767\\1001245767.jpg&width=150&height=150",
     "year": "1927",
-    "description": " Piet Mondriaan\n         \n\n    Composition with red, yellow, and blue dated 1927oil paint / canvas, 38\n        x\n        35 cmLondon (England)\n          (Sotheby's), 2013-06-19\n           - 2013-06-20,\n          no. 36B187",
+    "description": "Composition with red, yellow, and blue dated 1927oil paint / canvas, 38x35 cmLondon (England)\n          (Sotheby's), 2013-06-19\n           - 2013-06-20,\n          no. 36B187",
     "state": 0,
     "height": 947,
     "width": 876,
@@ -8174,7 +8312,10 @@
       "binary_threshold": 110,
       "min_line_length": 50,
       "min_distance_factor": 0.069
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1927 (1927)",
+    "title": "Composition with red, yellow, and blue"
   },
   {
     "id": "B188",
@@ -8182,7 +8323,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1927-1928-b182-b205/#253083",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\765\\1001240765.jpg&width=150&height=150",
     "year": "1927",
-    "description": " Piet Mondriaan\n         \n\n    Composition with red, yellow, and blue dated 1927oil paint / canvas, 51,1\n        x\n        51,1 cm The Cleveland Museum of Art, Cleveland (Ohio), no. 1967.215B188",
+    "description": "Composition with red, yellow, and blue dated 1927oil paint / canvas, 51,1x51,1 cm The Cleveland Museum of Art, Cleveland (Ohio), no. 1967.215B188",
     "state": 0,
     "height": 955,
     "width": 960,
@@ -8288,7 +8429,10 @@
       "binary_threshold": 110,
       "min_line_length": 50,
       "min_distance_factor": 0.069
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1927 (1927)",
+    "title": "Composition with red, yellow, and blue"
   },
   {
     "id": "B189",
@@ -8296,7 +8440,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1927-1928-b182-b205/#253095",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\316\\1001241316.jpg&width=150&height=150",
     "year": "1927",
-    "description": " Piet Mondriaan\n         \n\n    Composition with black, red, and gray dated 1927oil paint / canvas, 56\n        x\n        56 cmMuseum für Angewandte Kunst, Cologne, no. DL 69/1B189",
+    "description": "Composition with black, red, and gray dated 1927oil paint / canvas, 56x56 cmMuseum für Angewandte Kunst, Cologne, no. DL 69/1B189",
     "state": 0,
     "height": 973,
     "width": 974,
@@ -8378,7 +8522,10 @@
       "binary_threshold": 110,
       "min_line_length": 40,
       "min_distance_factor": 0.069
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1927 (1927)",
+    "title": "Composition with black, red, and gray"
   },
   {
     "id": "B190",
@@ -8386,7 +8533,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1927-1928-b182-b205/#253113",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\081\\1001170081.jpg&width=150&height=150",
     "year": "1927",
-    "description": " Piet Mondriaan\n         \n\n    No. III dated 1927oil paint / canvas, 61\n        x\n        40 cmStedelijk Museum Amsterdam, Amsterdam, no. A 1931B190",
+    "description": "No. III dated 1927oil paint / canvas, 61x40 cmStedelijk Museum Amsterdam, Amsterdam, no. A 1931B190",
     "state": 0,
     "height": 977,
     "width": 650,
@@ -8493,7 +8640,10 @@
       "min_line_length": 60,
       "min_distance": 70,
       "black_rectangle_dilate": 35
-    }
+    },
+    "publicDomain": false,
+    "date": "dated 1927 (1927)",
+    "title": "No. III"
   },
   {
     "id": "B191",
@@ -8501,7 +8651,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1927-1928-b182-b205/#253121",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\790\\1001170790.jpg&width=150&height=150",
     "year": "1927",
-    "description": " Piet Mondriaan\n         \n\n    Composition with red, yellow, and blue dated 1927oil paint / canvas, 40\n        x\n        52 cmKröller-Müller Museum, Otterlo (Ede), no. 1538-73B191",
+    "description": "Composition with red, yellow, and blue dated 1927oil paint / canvas, 40x52 cmKröller-Müller Museum, Otterlo (Ede), no. 1538-73B191",
     "state": 0,
     "height": 731,
     "width": 966,
@@ -8620,7 +8770,10 @@
       "min_line_length": 29,
       "min_distance": 70,
       "black_rectangle_dilate": 45
-    }
+    },
+    "publicDomain": false,
+    "date": "dated 1927 (1927)",
+    "title": "Composition with red, yellow, and blue"
   },
   {
     "id": "B192",
@@ -8628,7 +8781,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1927-1928-b182-b205/#253200",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\761\\1001240761.jpg&width=150&height=150",
     "year": "1927",
-    "description": " Piet Mondriaan\n         \n\n    Compositie no. I dated 1927oil paint / canvas, 38\n        x\n        35 cmBaltimore Museum of Art, Baltimore (Maryland), no. 51.343B192",
+    "description": "Compositie no. I dated 1927oil paint / canvas, 38x35 cmBaltimore Museum of Art, Baltimore (Maryland), no. 51.343B192",
     "state": 0,
     "height": 1000,
     "width": 927,
@@ -8734,7 +8887,10 @@
       "binary_threshold": 110,
       "min_line_length": 50,
       "min_distance_factor": 0.069
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1927 (1927)",
+    "title": "Compositie no. I"
   },
   {
     "id": "B193",
@@ -8742,7 +8898,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1927-1928-b182-b205/#253206",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\727\\1001236727.jpg&width=150&height=150",
     "year": "1927",
-    "description": " Piet Mondriaan\n         \n\n    No. I dated 1927oil paint / canvas, 73,5\n        x\n        54 cmPrivate collectionB193",
+    "description": "No. I dated 1927oil paint / canvas, 73,5x54 cmPrivate collectionB193",
     "state": 0,
     "height": 973,
     "width": 718,
@@ -8824,7 +8980,10 @@
       "binary_threshold": 110,
       "min_line_length": 50,
       "min_distance_factor": 0.069
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1927 (1927)",
+    "title": "No. I"
   },
   {
     "id": "B194",
@@ -8832,7 +8991,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1927-1928-b182-b205/#253209",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\857\\1001246857.jpg&width=150&height=150",
     "year": "1927",
-    "description": " Piet Mondriaan\n         \n\n    No. III dated 1927oil paint / canvas, 38\n        x\n        35,5 cmNew York City\n          (Christie's), 1996-04-30,\n          no. 46B194",
+    "description": "No. III dated 1927oil paint / canvas, 38x35,5 cmNew York City\n          (Christie's), 1996-04-30,\n          no. 46B194",
     "state": 0,
     "height": 1000,
     "width": 921,
@@ -8926,7 +9085,10 @@
       "binary_threshold": 110,
       "min_line_length": 50,
       "min_distance_factor": 0.069
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1927 (1927)",
+    "title": "No. III"
   },
   {
     "id": "B195",
@@ -8934,7 +9096,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1927-1928-b182-b205/#253212",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\764\\1001240764.jpg&width=150&height=150",
     "year": "1927",
-    "description": " Piet Mondriaan\n         \n\n    Composition with red, blue, and gray dated 1927oil paint / canvas, 66\n        x\n        50 cmLondon (England)\n          (Sotheby's), 2014-06-23\n           - 2014-06-24,\n          no. 14B195",
+    "description": "Composition with red, blue, and gray dated 1927oil paint / canvas, 66x50 cmLondon (England)\n          (Sotheby's), 2014-06-23\n           - 2014-06-24,\n          no. 14B195",
     "state": 0,
     "height": 1000,
     "width": 758,
@@ -9028,7 +9190,10 @@
       "binary_threshold": 110,
       "min_line_length": 50,
       "min_distance_factor": 0.069
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1927 (1927)",
+    "title": "Composition with red, blue, and gray"
   },
   {
     "id": "B196",
@@ -9036,7 +9201,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1927-1928-b182-b205/#253226",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\766\\1001245766.jpg&width=150&height=150",
     "year": "1927",
-    "description": " Piet Mondriaan\n         \n\n    No. II dated 1927oil paint / canvas, 50,2\n        x\n        35,2 cmPrivate collectionB196",
+    "description": "No. II dated 1927oil paint / canvas, 50,2x35,2 cmPrivate collectionB196",
     "state": 0,
     "height": 1000,
     "width": 692,
@@ -9118,7 +9283,10 @@
       "binary_threshold": 110,
       "min_line_length": 50,
       "min_distance_factor": 0.069
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1927 (1927)",
+    "title": "No. II"
   },
   {
     "id": "B197",
@@ -9126,7 +9294,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1927-1928-b182-b205/#253245",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\762\\1001240762.jpg&width=150&height=150",
     "year": "1927",
-    "description": " Piet Mondriaan\n         \n\n    Composition with yellow and blue dated 1927oil paint / canvas, 50\n        x\n        39,5 cmSprengel Museum, Hannover, no. Sammlung Sprengel I / 195B197",
+    "description": "Composition with yellow and blue dated 1927oil paint / canvas, 50x39,5 cmSprengel Museum, Hannover, no. Sammlung Sprengel I / 195B197",
     "state": 0,
     "height": 1000,
     "width": 783,
@@ -9208,7 +9376,10 @@
       "binary_threshold": 110,
       "min_line_length": 50,
       "min_distance_factor": 0.069
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1927 (1927)",
+    "title": "Composition with yellow and blue"
   },
   {
     "id": "B198",
@@ -9216,7 +9387,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1927-1928-b182-b205/#253250",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\461\\1001246461.jpg&width=150&height=150",
     "year": "1927",
-    "description": " Piet Mondriaan\n         \n\n    Compositie with yellow and red dated 1927oil paint / canvas, 52\n        x\n        35 cmLondon (England)\n          (Christie's), 2008-02-04,\n          no. 53B198",
+    "description": "Compositie with yellow and red dated 1927oil paint / canvas, 52x35 cmLondon (England)\n          (Christie's), 2008-02-04,\n          no. 53B198",
     "state": 0,
     "height": 968,
     "width": 648,
@@ -9298,7 +9469,10 @@
       "binary_threshold": 110,
       "min_line_length": 50,
       "min_distance_factor": 0.069
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1927 (1927)",
+    "title": "Compositie with yellow and red"
   },
   {
     "id": "B199",
@@ -9306,7 +9480,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1927-1928-b182-b205/#253266",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\763\\1001240763.jpg&width=150&height=150",
     "year": "1927",
-    "description": " Piet Mondriaan\n         \n\n    Composition with yellow, red, and blue dated 1927oil paint / canvas, 37,8\n        x\n        34,9 cm The Menil Collection, Houston (Texas), no. V 508B199",
+    "description": "Composition with yellow, red, and blue dated 1927oil paint / canvas, 37,8x34,9 cm The Menil Collection, Houston (Texas), no. V 508B199",
     "state": 0,
     "height": 1000,
     "width": 927,
@@ -9413,7 +9587,10 @@
       "min_line_length": 55,
       "min_distance": 70,
       "black_rectangle_dilate": 50
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1927 (1927)",
+    "title": "Composition with yellow, red, and blue"
   },
   {
     "id": "B200",
@@ -9421,7 +9598,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1927-1928-b182-b205/#253403",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\246\\1001240246.jpg&width=150&height=150",
     "year": "1927",
-    "description": " Piet Mondriaan\n         \n\n    Composition with red, yellow, and blue 1927oil paint / canvas, 75\n        x\n        52 cmMuseum Folkwang, Essen (Noord-Rijnland-Westfalen), no. G 389B200",
+    "description": "Composition with red, yellow, and blue 1927oil paint / canvas, 75x52 cmMuseum Folkwang, Essen (Noord-Rijnland-Westfalen), no. G 389B200",
     "state": 0,
     "height": 1000,
     "width": 698,
@@ -9516,7 +9693,10 @@
       "min_line_length": 40,
       "min_distance": 32,
       "black_rectangle_dilate": 40
-    }
+    },
+    "publicDomain": true,
+    "date": "1927 (1927)",
+    "title": "Composition with red, yellow, and blue"
   },
   {
     "id": "B201",
@@ -9524,7 +9704,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1927-1928-b182-b205/#253409",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\309\\1001241309.jpg&width=150&height=150",
     "year": "1928",
-    "description": " Piet Mondriaan\n         \n\n    Large composition with red, blue, and yellow dated 1928oil paint / canvas on cardboard, 123\n        x\n        80 cmPrivate collectionB201",
+    "description": "Large composition with red, blue, and yellow dated 1928oil paint / canvas on cardboard, 123x80 cmPrivate collectionB201",
     "state": 0,
     "height": 1000,
     "width": 640,
@@ -9642,7 +9822,10 @@
       "binary_threshold": 110,
       "min_line_length": 70,
       "min_distance_factor": 0.069
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1928 (1928)",
+    "title": "Large composition with red, blue, and yellow"
   },
   {
     "id": "B203",
@@ -9650,7 +9833,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1927-1928-b182-b205/#253446",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\577\\1001244577.jpg&width=150&height=150",
     "year": "1928",
-    "description": " Piet Mondriaan\n         \n\n    Composition with red, black, blue, yellow, and gray dated 1928oil paint / canvas, 52,1\n        x\n        49,9 cmprivate collection \n         Morton G. Neumann Family Collection, Chicago (Illinois)B203",
+    "description": "Composition with red, black, blue, yellow, and gray dated 1928oil paint / canvas, 52,1x49,9 cmprivate collection \n         Morton G. Neumann Family Collection, Chicago (Illinois)B203",
     "state": 0,
     "height": 974,
     "width": 941,
@@ -9769,7 +9952,10 @@
       "min_line_length": 47,
       "min_distance": 70,
       "black_rectangle_dilate": 50
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1928 (1928)",
+    "title": "Composition with red, black, blue, yellow, and gray"
   },
   {
     "id": "B204",
@@ -9777,7 +9963,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1927-1928-b182-b205/#218096",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\766\\1001240766.jpg&width=150&height=150",
     "year": "1928",
-    "description": " Piet Mondriaan\n         \n\n    Composition with red, black, blue, and yellow dated 1928oil paint / canvas, 45\n        x\n        45 cmWilhelm Hack-Museum, Ludwigshafen am Rhein, no. (WHS) 458/52B204",
+    "description": "Composition with red, black, blue, and yellow dated 1928oil paint / canvas, 45x45 cmWilhelm Hack-Museum, Ludwigshafen am Rhein, no. (WHS) 458/52B204",
     "state": 0,
     "height": 967,
     "width": 958,
@@ -9884,7 +10070,10 @@
       "min_line_length": 47,
       "min_distance": 70,
       "black_rectangle_dilate": 50
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1928 (1928)",
+    "title": "Composition with red, black, blue, and yellow"
   },
   {
     "id": "B206",
@@ -9892,7 +10081,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1929-1930-b206-b225/#253542",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\358\\1001243358.jpg&width=150&height=150",
     "year": "1929",
-    "description": " Piet Mondriaan\n         \n\n    Composition dated 1929oil paint / canvas, 45,1\n        x\n        45,3 cmSolomon R. Guggenheim Museum, New York City, no. 53.1347B206",
+    "description": "Composition dated 1929oil paint / canvas, 45,1x45,3 cmSolomon R. Guggenheim Museum, New York City, no. 53.1347B206",
     "state": 0,
     "height": 951,
     "width": 955,
@@ -9999,7 +10188,10 @@
       "min_line_length": 47,
       "min_distance": 70,
       "black_rectangle_dilate": 50
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1929 (1929)",
+    "title": "Composition"
   },
   {
     "id": "B207",
@@ -10007,7 +10199,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1929-1930-b206-b225/#253555",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\700\\1001245700.jpg&width=150&height=150",
     "year": "1929",
-    "description": " Piet Mondriaan\n         \n\n    Composition dated 1929oil paint / canvas, 50,5\n        x\n        50,5 cmYale University Art Gallery, Yale (Connecticut), no. 1941.603B207",
+    "description": "Composition dated 1929oil paint / canvas, 50,5x50,5 cmYale University Art Gallery, Yale (Connecticut), no. 1941.603B207",
     "state": 0,
     "height": 786,
     "width": 781,
@@ -10090,7 +10282,10 @@
       "min_line_length": 70,
       "min_distance_factor": 0.069,
       "black_rectangle_dilate": 33
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1929 (1929)",
+    "title": "Composition"
   },
   {
     "id": "B208",
@@ -10098,7 +10293,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1929-1930-b206-b225/#220213",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\887\\1001240887.jpg&width=150&height=150",
     "year": "1929",
-    "description": " Piet Mondriaan\n         \n\n    Composion no. I dated 1929oil paint / canvas, 40,1\n        x\n        32,1 cmNational Museum of Modern Art \n           (Kyoto), The, KyotoB208",
+    "description": "Composion no. I dated 1929oil paint / canvas, 40,1x32,1 cmNational Museum of Modern Art \n           (Kyoto), The, KyotoB208",
     "state": 0,
     "height": 949,
     "width": 763,
@@ -10169,7 +10364,10 @@
       "min_line_length": 70,
       "min_distance_factor": 0.069,
       "black_rectangle_dilate": 33
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1929 (1929)",
+    "title": "Composition no. I"
   },
   {
     "id": "B209",
@@ -10177,7 +10375,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1929-1930-b206-b225/#253561",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\718\\1001348718.jpg&width=150&height=150",
     "year": "1929",
-    "description": " Piet Mondriaan\n         \n\n    Composition no. II 1929oil paint / canvas, 40,3\n        x\n        32,1 cm The Museum of Modern Art, New York City, no. 486.41B209",
+    "description": "Composition no. II 1929oil paint / canvas, 40,3x32,1 cm The Museum of Modern Art, New York City, no. 486.41B209",
     "state": 0,
     "height": 997,
     "width": 803,
@@ -10248,7 +10446,10 @@
       "min_line_length": 70,
       "min_distance_factor": 0.069,
       "black_rectangle_dilate": 33
-    }
+    },
+    "publicDomain": true,
+    "date": "1929 (1925 - 1929)",
+    "title": "Composition no. II"
   },
   {
     "id": "B210",
@@ -10256,7 +10457,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1929-1930-b206-b225/#253566",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\602\\1001245602.jpg&width=150&height=150",
     "year": "1929",
-    "description": " Piet Mondriaan\n         \n\n    Composition no. III dated 1929oil paint / canvas, 45,4\n        x\n        45,4 cmYale University Art Gallery, Yale (Connecticut), no. 1941.603B210",
+    "description": "Composition no. III dated 1929oil paint / canvas, 45,4x45,4 cmYale University Art Gallery, Yale (Connecticut), no. 1941.603B210",
     "state": 0,
     "height": 784,
     "width": 779,
@@ -10375,7 +10576,10 @@
       "min_line_length": 43,
       "min_distance": 70,
       "black_rectangle_dilate": 30
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1929 (1929)",
+    "title": "Composition no. III"
   },
   {
     "id": "B212",
@@ -10383,7 +10587,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1929-1930-b206-b225/#253575",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\767\\1001240767.jpg&width=150&height=150",
     "year": "1929",
-    "description": " Piet Mondriaan\n         \n\n    Composition II dated 1929oil paint / canvas, 45\n        x\n        45 cmNarodni muzej Beograd, Belgrado, no. Istr. 43B212",
+    "description": "Composition II dated 1929oil paint / canvas, 45x45 cmNarodni muzej Beograd, Belgrado, no. Istr. 43B212",
     "state": 0,
     "height": 955,
     "width": 954,
@@ -10478,7 +10682,10 @@
       "min_line_length": 70,
       "min_distance_factor": 0.069,
       "black_rectangle_dilate": 33
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1929 (1929)",
+    "title": "Composition II"
   },
   {
     "id": "B213",
@@ -10486,7 +10693,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1929-1930-b206-b225/#253578",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\364\\1001218364.jpg&width=150&height=150",
     "year": "1929",
-    "description": " Piet Mondriaan\n         \n\n    Composition no. III dated 1929oil paint / canvas, 50\n        x\n        50,5 cmNew York City\n          (Christie's), 2015-05-14\n           - 2015-05-15,\n          no. 6cB213",
+    "description": "Composition no. III dated 1929oil paint / canvas, 50x50,5 cmNew York City\n          (Christie's), 2015-05-14\n           - 2015-05-15,\n          no. 6cB213",
     "state": 0,
     "height": 1000,
     "width": 989,
@@ -10593,7 +10800,10 @@
       "min_line_length": 43,
       "min_distance": 70,
       "black_rectangle_dilate": 50
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1929 (1929)",
+    "title": "Composition no. III"
   },
   {
     "id": "B214",
@@ -10601,7 +10811,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1929-1930-b206-b225/#253602",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\718\\1001195718.jpg&width=150&height=150",
     "year": "1929",
-    "description": " Piet Mondriaan\n         \n\n    Composition no. I dated 1929oil paint / canvas, 52\n        x\n        52 cmKunstmuseum Basel, Basel (Switzerland), no. G 1968.88B214",
+    "description": "Composition no. I dated 1929oil paint / canvas, 52x52 cmKunstmuseum Basel, Basel (Switzerland), no. G 1968.88B214",
     "state": 0,
     "height": 1000,
     "width": 960,
@@ -10696,7 +10906,10 @@
       "min_line_length": 60,
       "min_distance": 70,
       "black_rectangle_dilate": 35
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1929 (1929)",
+    "title": "Composition no. I"
   },
   {
     "id": "B215",
@@ -10704,7 +10917,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1929-1930-b206-b225/#253277",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\805\\1001168805.jpg&width=150&height=150",
     "year": "1929",
-    "description": " Piet Mondriaan\n         \n\n    Composition no. II dated 1929oil paint / canvas, 52\n        x\n        52 cmMuseum Boijmans Van Beuningen, Rotterdam, no. 1542 (MK)B215",
+    "description": "Composition no. II dated 1929oil paint / canvas, 52x52 cmMuseum Boijmans Van Beuningen, Rotterdam, no. 1542 (MK)B215",
     "state": 0,
     "height": 970,
     "width": 976,
@@ -10799,7 +11012,10 @@
       "min_line_length": 70,
       "min_distance_factor": 0.069,
       "black_rectangle_dilate": 33
-    }
+    },
+    "publicDomain": false,
+    "date": "dated 1929 (1929)",
+    "title": "Composition no. II"
   },
   {
     "id": "B216",
@@ -10807,7 +11023,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1929-1930-b206-b225/#253276",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\082\\1001170082.jpg&width=150&height=150",
     "year": "1929",
-    "description": " Piet Mondriaan\n         \n\n    Composition no. IV dated 1929oil paint / canvas, 52\n        x\n        51,5 cmStedelijk Museum Amsterdam, Amsterdam, no. A 9916B216",
+    "description": "Composition no. IV dated 1929oil paint / canvas, 52x51,5 cmStedelijk Museum Amsterdam, Amsterdam, no. A 9916B216",
     "state": 0,
     "height": 919,
     "width": 917,
@@ -10890,7 +11106,10 @@
       "min_line_length": 43,
       "min_distance": 70,
       "black_rectangle_dilate": 50
-    }
+    },
+    "publicDomain": false,
+    "date": "dated 1929 (1929)",
+    "title": "Composition no. IV"
   },
   {
     "id": "B217",
@@ -10898,7 +11117,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1929-1930-b206-b225/#253643",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\365\\1001218365.jpg&width=150&height=150",
     "year": "1930",
-    "description": " Piet Mondriaan\n         \n\n    Composition with red, blue and yellow dated 1930oil paint / canvas, 46\n        x\n        46 cmKunsthaus Zürich, Zurich, no. 1987/28B217",
+    "description": "Composition with red, blue and yellow dated 1930oil paint / canvas, 46x46 cmKunsthaus Zürich, Zurich, no. 1987/28B217",
     "state": 0,
     "height": 1000,
     "width": 996,
@@ -10993,7 +11212,10 @@
       "min_line_length": 70,
       "min_distance_factor": 0.069,
       "black_rectangle_dilate": 33
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1930 (1930)",
+    "title": "Composition with red, blue and yellow"
   },
   {
     "id": "B219",
@@ -11001,7 +11223,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1929-1930-b206-b225/#253672",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\253\\1001240253.jpg&width=150&height=150",
     "year": "1930",
-    "description": " Piet Mondriaan\n         \n\n    Composition no. II dated 1930oil paint / canvas, 51\n        x\n        51 cmprivate collection \n         Peter Simon, LondonB219",
+    "description": "Composition no. II dated 1930oil paint / canvas, 51x51 cmprivate collection \n         Peter Simon, LondonB219",
     "state": 0,
     "height": 959,
     "width": 962,
@@ -11096,7 +11318,10 @@
       "min_line_length": 70,
       "min_distance_factor": 0.069,
       "black_rectangle_dilate": 33
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1930 (1930)",
+    "title": "Composition no. II"
   },
   {
     "id": "B220",
@@ -11104,7 +11329,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1929-1930-b206-b225/#253681",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\580\\1001244580.jpg&width=150&height=150",
     "year": "1930",
-    "description": " Piet Mondriaan\n         \n\n    Composition no. I dated 1930oil paint / canvas, 50,5\n        x\n        50,5 cmKunstmuseum Winterthur, Winterthur, no. 1199B220",
+    "description": "Composition no. I dated 1930oil paint / canvas, 50,5x50,5 cmKunstmuseum Winterthur, Winterthur, no. 1199B220",
     "state": 0,
     "height": 838,
     "width": 840,
@@ -11187,7 +11412,10 @@
       "min_line_length": 43,
       "min_distance": 70,
       "black_rectangle_dilate": 50
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1930 (1930)",
+    "title": "Composition no. I"
   },
   {
     "id": "B221",
@@ -11195,7 +11423,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1929-1930-b206-b225/#253992",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\594\\1001195594.jpg&width=150&height=150",
     "year": "1930",
-    "description": " Piet Mondriaan\n         \n\n    Composition with yellow dated 1930oil paint / canvas, 46\n        x\n        46,5 cmKunstsammlung Nordrhein-Westfalen, Düsseldorf, no. 164B221",
+    "description": "Composition with yellow dated 1930oil paint / canvas, 46x46,5 cmKunstsammlung Nordrhein-Westfalen, Düsseldorf, no. 164B221",
     "state": 0,
     "height": 1000,
     "width": 998,
@@ -11290,7 +11518,10 @@
       "min_line_length": 70,
       "min_distance_factor": 0.069,
       "black_rectangle_dilate": 33
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1930 (1930)",
+    "title": "Composition with yellow"
   },
   {
     "id": "B222",
@@ -11298,7 +11529,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1929-1930-b206-b225/#218079",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\579\\1001195579.jpg&width=150&height=150",
     "year": "1930",
-    "description": " Piet Mondriaan\n         \n\n    Composition II dated 1930oil paint / canvas, 72,6\n        x\n        54 cmlower center\n          : \n      P M '30New York City\n          (Christie's), 1993-11-02,\n          no. 39B222",
+    "description": "Composition II dated 1930oil paint / canvas, 72,6x54 cmlower center\n          : \n      P M '30New York City\n          (Christie's), 1993-11-02,\n          no. 39B222",
     "state": 0,
     "height": 1000,
     "width": 740,
@@ -11429,7 +11660,10 @@
       "min_line_length": 70,
       "min_distance_factor": 0.069,
       "black_rectangle_dilate": 33
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1930 (1930)",
+    "title": "Composition II"
   },
   {
     "id": "B223",
@@ -11437,7 +11671,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1929-1930-b206-b225/#254003",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\637\\1001245637.jpg&width=150&height=150",
     "year": "1930",
-    "description": " Piet Mondriaan\n         \n\n    Composition en blanc et noir I dated 1930oil paint / canvas, 40,9\n        x\n        33,3 cmart dealer \n         Sidney Janis Gallery, New York CityB223",
+    "description": "Composition en blanc et noir I dated 1930oil paint / canvas, 40,9x33,3 cmart dealer \n         Sidney Janis Gallery, New York CityB223",
     "state": 0,
     "height": 968,
     "width": 798,
@@ -11508,7 +11742,10 @@
       "min_line_length": 70,
       "min_distance": 70,
       "black_rectangle_dilate": 70
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1930 (1930)",
+    "title": "Composition en blanc et noir I"
   },
   {
     "id": "B224",
@@ -11516,7 +11753,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1929-1930-b206-b225/#254015",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\255\\1001240255.jpg&width=150&height=150",
     "year": "1930",
-    "description": " Piet Mondriaan\n         \n\n    Composition en blanc et noir II dated 1930oil paint / canvas, 50,5\n        x\n        50,5 cmVan Abbemuseum, Eindhoven, no. 343B224",
+    "description": "Composition en blanc et noir II dated 1930oil paint / canvas, 50,5x50,5 cmVan Abbemuseum, Eindhoven, no. 343B224",
     "state": 0,
     "height": 863,
     "width": 860,
@@ -11587,7 +11824,10 @@
       "min_line_length": 70,
       "min_distance": 70,
       "black_rectangle_dilate": 70
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1930 (1930)",
+    "title": "Composition en blanc et noir II"
   },
   {
     "id": "B225",
@@ -11595,7 +11835,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1929-1930-b206-b225/#254021",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\581\\1001244581.jpg&width=150&height=150",
     "year": "1930",
-    "description": " Piet Mondriaan\n         \n\n    Composition no. II dated 1930oil paint / canvas, 50,5\n        x\n        50,5 cmLondon (England)\n          (Christie's), 2014-02-04\n           - 2014-02-05,\n          no. 10B225",
+    "description": "Composition no. II dated 1930oil paint / canvas, 50,5x50,5 cmLondon (England)\n          (Christie's), 2014-02-04\n           - 2014-02-05,\n          no. 10B225",
     "state": 0,
     "height": 959,
     "width": 955,
@@ -11690,7 +11930,10 @@
       "min_line_length": 70,
       "min_distance_factor": 0.069,
       "black_rectangle_dilate": 33
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1930 (1930)",
+    "title": "Composition no. II"
   },
   {
     "id": "B226",
@@ -11698,7 +11941,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1931-1934-b226-b252.258/#254047",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\215\\1001235215.jpg&width=150&height=150",
     "year": "1931",
-    "description": " Piet Mondriaan\n         \n\n    Composition no. I dated 1931oil paint / canvas, 82,5\n        x\n        54,7 cmNew York City\n          (Christie's), 1998-11-19,\n          no. 321B226",
+    "description": "Composition no. I dated 1931oil paint / canvas, 82,5x54,7 cmNew York City\n          (Christie's), 1998-11-19,\n          no. 321B226",
     "state": 0,
     "height": 805,
     "width": 527,
@@ -11829,7 +12072,10 @@
       "min_line_length": 70,
       "min_distance": 70,
       "black_rectangle_dilate": 70
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1931 (1931)",
+    "title": "Composition no. I"
   },
   {
     "id": "B227",
@@ -11837,7 +12083,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1931-1934-b226-b252.258/#254055",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\257\\1001240257.jpg&width=150&height=150",
     "year": "1931",
-    "description": " Piet Mondriaan\n         \n\n    Composition en couleurs dated 1931oil paint / canvas, 50,5\n        x\n        50,5 cmMuseo Thyssen-Bornemisza, Madrid (Spain), no. 1977.51B227",
+    "description": "Composition en couleurs dated 1931oil paint / canvas, 50,5x50,5 cmMuseo Thyssen-Bornemisza, Madrid (Spain), no. 1977.51B227",
     "state": 0,
     "height": 1000,
     "width": 984,
@@ -11932,7 +12178,10 @@
       "min_line_length": 70,
       "min_distance_factor": 0.071,
       "black_rectangle_dilate": 33
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1931 (1931)",
+    "title": "Composition en couleurs"
   },
   {
     "id": "B228",
@@ -11940,7 +12189,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1931-1934-b226-b252.258/#254067",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\768\\1001240768.jpg&width=150&height=150",
     "year": "1931",
-    "description": " Piet Mondriaan\n         \n\n    Composition no. II dated 1931oil paint / canvas, 52\n        x\n        52 cmColección Patricia Phelps de Cisneros, Caracas (Venezuela)B228",
+    "description": "Composition no. II dated 1931oil paint / canvas, 52x52 cmColección Patricia Phelps de Cisneros, Caracas (Venezuela)B228",
     "state": 0,
     "height": 995,
     "width": 1000,
@@ -12035,7 +12284,10 @@
       "min_line_length": 70,
       "min_distance_factor": 0.073,
       "black_rectangle_dilate": 33
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1931 (1931)",
+    "title": "Composition no. II"
   },
   {
     "id": "B230",
@@ -12043,7 +12295,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1931-1934-b226-b252.258/#254091",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\964\\1001241964.jpg&width=150&height=150",
     "year": "1932",
-    "description": " Piet Mondriaan\n         \n\n    Composition A dated 1932oil paint / canvas, 55\n        x\n        55 cmKunstmuseum Winterthur, Winterthur, no. 1200B230",
+    "description": "Composition A dated 1932oil paint / canvas, 55x55 cmKunstmuseum Winterthur, Winterthur, no. 1200B230",
     "state": 0,
     "height": 984,
     "width": 1000,
@@ -12138,7 +12390,10 @@
       "min_line_length": 70,
       "min_distance_factor": 0.073,
       "black_rectangle_dilate": 33
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1932 (1932)",
+    "title": "Composition A"
   },
   {
     "id": "B231",
@@ -12146,7 +12401,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1931-1934-b226-b252.258/#254093",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\357\\1001243357.jpg&width=150&height=150",
     "year": "1932",
-    "description": " Piet Mondriaan\n         \n\n    Composition B dated 1932oil paint / canvas, 50\n        x\n        50 cmPrivate collectionB231",
+    "description": "Composition B dated 1932oil paint / canvas, 50x50 cmPrivate collectionB231",
     "state": 0,
     "height": 954,
     "width": 960,
@@ -12265,7 +12520,10 @@
       "min_line_length": 70,
       "min_distance": 70,
       "black_rectangle_dilate": 70
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1932 (1932)",
+    "title": "Composition B"
   },
   {
     "id": "B232",
@@ -12273,7 +12531,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1931-1934-b226-b252.258/#254099",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\582\\1001244582.jpg&width=150&height=150",
     "year": "1932",
-    "description": " Piet Mondriaan\n         \n\n    Composition C dated 1932oil paint / canvas, 50,2\n        x\n        50,4 cmPrivate collectionB232",
+    "description": "Composition C dated 1932oil paint / canvas, 50,2x50,4 cmPrivate collectionB232",
     "state": 0,
     "height": 825,
     "width": 823,
@@ -12368,7 +12626,10 @@
       "min_line_length": 70,
       "min_distance_factor": 0.073,
       "black_rectangle_dilate": 33
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1932 (1932)",
+    "title": "Composition C"
   },
   {
     "id": "B233",
@@ -12376,7 +12637,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1931-1934-b226-b252.258/#254367",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\770\\1001240770.jpg&width=150&height=150",
     "year": "1932",
-    "description": " Piet Mondriaan\n         \n\n    Composition D dated 1932oil paint / canvas, 42\n        x\n        38,5 cmPrivate collectionB233",
+    "description": "Composition D dated 1932oil paint / canvas, 42x38,5 cmPrivate collectionB233",
     "state": 0,
     "height": 727,
     "width": 675,
@@ -12471,7 +12732,10 @@
       "min_line_length": 40,
       "min_distance_factor": 0.073,
       "black_rectangle_dilate": 33
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1932 (1932)",
+    "title": "Composition D"
   },
   {
     "id": "B234",
@@ -12479,7 +12743,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1931-1934-b226-b252.258/#254370",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\965\\1001241965.jpg&width=150&height=150",
     "year": "1932",
-    "description": " Piet Mondriaan\n         \n\n    Composition with yellow and blue dated 1932oil paint / canvas, 55,5\n        x\n        55,3 cmFondation Beyeler, Bazel (Switzerland)B234",
+    "description": "Composition with yellow and blue dated 1932oil paint / canvas, 55,5x55,3 cmFondation Beyeler, Bazel (Switzerland)B234",
     "state": 0,
     "height": 1000,
     "width": 981,
@@ -12574,7 +12838,10 @@
       "min_line_length": 40,
       "min_distance_factor": 0.073,
       "black_rectangle_dilate": 33
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1932 (1932)",
+    "title": "Composition with yellow and blue"
   },
   {
     "id": "B235",
@@ -12582,7 +12849,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1931-1934-b226-b252.258/#254390",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\769\\1001240769.jpg&width=150&height=150",
     "year": "1932",
-    "description": " Piet Mondriaan\n         \n\n    Composition with blue and yellow 1932oil paint / canvas, 45,4\n        x\n        45,4 cmDenver Art Museum, Denver (Colorado), no. 1966-185B235",
+    "description": "Composition with blue and yellow 1932oil paint / canvas, 45,4x45,4 cmDenver Art Museum, Denver (Colorado), no. 1966-185B235",
     "state": 0,
     "height": 995,
     "width": 1000,
@@ -12665,7 +12932,10 @@
       "min_line_length": 40,
       "min_distance_factor": 0.073,
       "black_rectangle_dilate": 33
-    }
+    },
+    "publicDomain": true,
+    "date": "1932 (1932 - 1934)",
+    "title": "Composition with blue and yellow"
   },
   {
     "id": "B236",
@@ -12673,7 +12943,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1931-1934-b226-b252.258/#254399",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\258\\1001240258.jpg&width=150&height=150",
     "year": "1932",
-    "description": " Piet Mondriaan\n         \n\n    Composition with yellow and blue dated 1932oil paint / canvas, 41,3\n        x\n        33 cmPhiladelphia Museum of Art, Philadelphia (Pennsylvania), no. 52-61-88B236",
+    "description": "Composition with yellow and blue dated 1932oil paint / canvas, 41,3x33 cmPhiladelphia Museum of Art, Philadelphia (Pennsylvania), no. 52-61-88B236",
     "state": 0,
     "height": 978,
     "width": 791,
@@ -12744,7 +13014,10 @@
       "min_line_length": 40,
       "min_distance_factor": 0.073,
       "black_rectangle_dilate": 33
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1932 (1932)",
+    "title": "Composition with yellow and blue"
   },
   {
     "id": "B237",
@@ -12752,7 +13025,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1931-1934-b226-b252.258/#254414",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\702\\1001348702.jpg&width=150&height=150",
     "year": "1932",
-    "description": " Piet Mondriaan\n         \n\n    Composition with double line and yellow dated 1932oil paint / canvas, 45,2\n        x\n        45,2 cmScottish National Gallery, Edinburgh, no. GMI 2502B237",
+    "description": "Composition with double line and yellow dated 1932oil paint / canvas, 45,2x45,2 cmScottish National Gallery, Edinburgh, no. GMI 2502B237",
     "state": 0,
     "height": 828,
     "width": 827,
@@ -12835,7 +13108,10 @@
       "min_line_length": 70,
       "min_distance": 70,
       "black_rectangle_dilate": 70
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1932 (1932)",
+    "title": "Composition with double line and yellow"
   },
   {
     "id": "B238",
@@ -12843,7 +13119,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1931-1934-b226-b252.258/#254558",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\090\\1001245090.jpg&width=150&height=150",
     "year": "1933",
-    "description": " Piet Mondriaan\n         \n\n    Composition with double line and yellow and blue dated 1933oil paint / canvas, 41\n        x\n        33,5 cmPrivate collectionB238",
+    "description": "Composition with double line and yellow and blue dated 1933oil paint / canvas, 41x33,5 cmPrivate collectionB238",
     "state": 0,
     "height": 1000,
     "width": 806,
@@ -12938,7 +13214,10 @@
       "min_line_length": 70,
       "min_distance": 70,
       "black_rectangle_dilate": 70
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1933 (1933)",
+    "title": "Composition with double line and yellow and blue"
   },
   {
     "id": "B239",
@@ -12946,7 +13225,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1931-1934-b226-b252.258/#254559",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\771\\1001240771.jpg&width=150&height=150",
     "year": "1933",
-    "description": " Piet Mondriaan\n         \n\n    Composition with red and blue dated 1933oil paint / canvas, 41,2\n        x\n        33,3 cm The Museum of Modern Art, New York City, no. 635.67B239",
+    "description": "Composition with red and blue dated 1933oil paint / canvas, 41,2x33,3 cm The Museum of Modern Art, New York City, no. 635.67B239",
     "state": 0,
     "height": 1000,
     "width": 793,
@@ -13029,7 +13308,10 @@
       "min_line_length": 70,
       "min_distance_factor": 0.065,
       "black_rectangle_dilate": 33
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1933 (1932 - 1933)",
+    "title": "Composition with red and blue"
   },
   {
     "id": "B240",
@@ -13037,7 +13319,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1931-1934-b226-b252.258/#254560",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\261\\1001240261.jpg&width=150&height=150",
     "year": "1933",
-    "description": " Piet Mondriaan\n         \n\n    Composition with blue and yellow dated 1933oil paint / canvas, 41,5\n        x\n        33 cmModerna Museet, Stockholm, no. MOM 447B240",
+    "description": "Composition with blue and yellow dated 1933oil paint / canvas, 41,5x33 cmModerna Museet, Stockholm, no. MOM 447B240",
     "state": 0,
     "height": 993,
     "width": 812,
@@ -13108,7 +13390,10 @@
       "min_line_length": 70,
       "min_distance_factor": 0.065,
       "black_rectangle_dilate": 33
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1933 (1933)",
+    "title": "Composition with blue and yellow"
   },
   {
     "id": "B243",
@@ -13116,7 +13401,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1931-1934-b226-b252.258/#254583",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\642\\1001241642.jpg&width=150&height=150",
     "year": "1934",
-    "description": " Piet Mondriaan\n         \n\n    Composition in black and white, with double lines dated 1934oil paint / canvas, 59,4\n        x\n        60,3 cmPrivate collectionB243",
+    "description": "Composition in black and white, with double lines dated 1934oil paint / canvas, 59,4x60,3 cmPrivate collectionB243",
     "state": 0,
     "height": 878,
     "width": 858,
@@ -13307,7 +13592,10 @@
       "min_line_length": 70,
       "min_distance": 70,
       "black_rectangle_dilate": 70
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1934 (1934)",
+    "title": "Composition in black and white, with double lines"
   },
   {
     "id": "B244",
@@ -13315,7 +13603,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1931-1934-b226-b252.258/#254590",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\597\\1001195597.jpg&width=150&height=150",
     "year": "1934",
-    "description": " Piet Mondriaan\n         \n\n    Composition no. I 1934oil paint / canvas, 121,3\n        x\n        59 cmKunstsammlung Nordrhein-Westfalen, Düsseldorf, no. 146B244",
+    "description": "Composition no. I 1934oil paint / canvas, 121,3x59 cmKunstsammlung Nordrhein-Westfalen, Düsseldorf, no. 146B244",
     "state": 0,
     "height": 1000,
     "width": 489,
@@ -13386,7 +13674,10 @@
       "min_line_length": 70,
       "min_distance_factor": 0.065,
       "black_rectangle_dilate": 33
-    }
+    },
+    "publicDomain": true,
+    "date": "1934 (1934 - 1936)",
+    "title": "Composition no. I"
   },
   {
     "id": "B245",
@@ -13394,7 +13685,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1931-1934-b226-b252.258/#245426",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\099\\1001247099.jpg&width=150&height=150",
     "year": "1934",
-    "description": " Piet Mondriaan\n         \n\n    Composition no. II. 1934oil paint / canvas, 59\n        x\n        56,5 cmlower right\n          : \n      P M 36private collection \n         Paul Bittencourt, São Paulo (Brazil)B245",
+    "description": "Composition no. II. 1934oil paint / canvas, 59x56,5 cmlower right\n          : \n      P M 36private collection \n         Paul Bittencourt, São Paulo (Brazil)B245",
     "state": 0,
     "height": 1000,
     "width": 969,
@@ -13537,7 +13828,10 @@
       "min_line_length": 70,
       "min_distance_factor": 0.065,
       "black_rectangle_dilate": 33
-    }
+    },
+    "publicDomain": true,
+    "date": "1934 (1934 - 1936)",
+    "title": "Composition no. II."
   },
   {
     "id": "B253",
@@ -13545,7 +13839,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1935-1937-b253-b281.312/#244990",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\593\\1001195593.jpg&width=150&height=150",
     "year": "1935",
-    "description": " Piet Mondriaan\n         \n\n    Composition A dated 1935oil paint / canvas, 59\n        x\n        56 cmlower right\n          : \n      P M 35London (England)\n          (Christie's), 2014-06-24\n           - 2014-06-25,\n          no. 10B253",
+    "description": "Composition A dated 1935oil paint / canvas, 59x56 cmlower right\n          : \n      P M 35London (England)\n          (Christie's), 2014-06-24\n           - 2014-06-25,\n          no. 10B253",
     "state": 0,
     "height": 1000,
     "width": 950,
@@ -13628,7 +13922,10 @@
       "min_line_length": 70,
       "min_distance_factor": 0.065,
       "black_rectangle_dilate": 33
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1935 (1935)",
+    "title": "Composition A"
   },
   {
     "id": "B254",
@@ -13636,7 +13933,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1935-1937-b253-b281.312/#244991",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\922\\1001213922.jpg&width=150&height=150",
     "year": "1935",
-    "description": " Piet Mondriaan\n         \n\n    Composition B dated 1935oil paint / canvas, 80\n        x\n        63,2 cmlower right\n          : \n      P M 35Tate Gallery, London, no. T07560B254",
+    "description": "Composition B dated 1935oil paint / canvas, 80x63,2 cmlower right\n          : \n      P M 35Tate Gallery, London, no. T07560B254",
     "state": 0,
     "height": 969,
     "width": 753,
@@ -13767,7 +14064,10 @@
       "min_line_length": 70,
       "min_distance_factor": 0.065,
       "black_rectangle_dilate": 33
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1935 (1935)",
+    "title": "Composition B"
   },
   {
     "id": "B255",
@@ -13775,7 +14075,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1935-1937-b253-b281.312/#244992",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\703\\1001348703.jpg&width=150&height=150",
     "year": "1935",
-    "description": " Piet Mondriaan\n         \n\n    Composition (no. I) gris-rouge dated 1935oil paint / canvas, 56,9\n        x\n        55 cmlower right\n          : \n      P M 35 The Art Institute of Chicago, Chicago (Illinois), no. 49.518B255",
+    "description": "Composition (no. I) gris-rouge dated 1935oil paint / canvas, 56,9x55 cmlower right\n          : \n      P M 35 The Art Institute of Chicago, Chicago (Illinois), no. 49.518B255",
     "state": 0,
     "height": 834,
     "width": 799,
@@ -13954,7 +14254,10 @@
       "min_line_length": 70,
       "min_distance": 70,
       "black_rectangle_dilate": 70
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1935 (1935)",
+    "title": "Composition (no. I) gris-rouge"
   },
   {
     "id": "B256",
@@ -13962,7 +14265,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1935-1937-b253-b281.312/#244993",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\421\\0001326421.jpg&width=150&height=150",
     "year": "1935",
-    "description": " Piet Mondriaan\n         \n\n    Composition (no. II) bleu-jaune dated 1935oil paint / canvas, 72,3\n        x\n        69,2 cmlower right\n          : \n      P M 35Hirshhorn Museum, Washington (D.C.), no. 72.205B256",
+    "description": "Composition (no. II) bleu-jaune dated 1935oil paint / canvas, 72,3x69,2 cmlower right\n          : \n      P M 35Hirshhorn Museum, Washington (D.C.), no. 72.205B256",
     "state": 0,
     "height": 985,
     "width": 939,
@@ -14189,7 +14492,10 @@
       "min_line_length": 70,
       "min_distance": 70,
       "black_rectangle_dilate": 70
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1935 (1935)",
+    "title": "Composition (no. II) bleu-jaune"
   },
   {
     "id": "B258",
@@ -14197,7 +14503,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1935-1937-b253-b281.312/#244999",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\772\\1001240772.jpg&width=150&height=150",
     "year": "1935",
-    "description": " Piet Mondriaan\n         \n\n    Composition (no. IV) blanc-bleu dated 1935oil paint / canvas, 99\n        x\n        70,3 cmlower left\n          : \n      P M 35 The Wadsworth Atheneum Museum of Art, Hartford (Connecticut), no. 1936.338B252.258 (second state)",
+    "description": "Composition (no. IV) blanc-bleu dated 1935oil paint / canvas, 99x70,3 cmlower left\n          : \n      P M 35 The Wadsworth Atheneum Museum of Art, Hartford (Connecticut), no. 1936.338B252.258 (second state)",
     "state": 2,
     "height": 907,
     "width": 731,
@@ -14448,7 +14754,10 @@
       "min_line_length": 70,
       "min_distance": 70,
       "black_rectangle_dilate": 70
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1935 (1934 - 1935)",
+    "title": "Composition (no. IV) blanc-bleu"
   },
   {
     "id": "B259",
@@ -14456,7 +14765,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1935-1937-b253-b281.312/#245000",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\082\\1001245082.jpg&width=150&height=150",
     "year": "1935",
-    "description": " Piet Mondriaan\n         \n\n    Composition with double line and blue dated 1935oil paint / canvas, 71,1\n        x\n        68,9 cmlower center\n          : \n      P M 35Fondation Beyeler, Bazel (Switzerland)B259",
+    "description": "Composition with double line and blue dated 1935oil paint / canvas, 71,1x68,9 cmlower center\n          : \n      P M 35Fondation Beyeler, Bazel (Switzerland)B259",
     "state": 0,
     "height": 985,
     "width": 948,
@@ -14587,7 +14896,10 @@
       "min_line_length": 70,
       "min_distance_factor": 0.065,
       "black_rectangle_dilate": 33
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1935 (1935)",
+    "title": "Composition with double line and blue"
   },
   {
     "id": "B261",
@@ -14595,7 +14907,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1935-1937-b253-b281.312/#245006",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\598\\1001195598.jpg&width=150&height=150",
     "year": "1935",
-    "description": " Piet Mondriaan\n         \n\n    Composition C (no. III) dated 1935oil paint / canvas, 56,2\n        x\n        55,1 cmlower right\n          : \n      P M '35Tate Gallery, London, no. L 00097B261",
+    "description": "Composition C (no. III) dated 1935oil paint / canvas, 56,2x55,1 cmlower right\n          : \n      P M '35Tate Gallery, London, no. L 00097B261",
     "state": 0,
     "height": 954,
     "width": 932,
@@ -14714,7 +15026,10 @@
       "min_line_length": 70,
       "min_distance_factor": 0.065,
       "black_rectangle_dilate": 33
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1935 (1935)",
+    "title": "Composition C (no. III)"
   },
   {
     "id": "B262",
@@ -14722,7 +15037,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1935-1937-b253-b281.312/#245007",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\696\\1001195696.jpg&width=150&height=150",
     "year": "1936",
-    "description": " Piet Mondriaan\n         \n\n    Composition (A) en rouge et blanc dated 1936oil paint / canvas, 43,2\n        x\n        33 cmlower right\n          : \n      P M 36Private collectionB262",
+    "description": "Composition (A) en rouge et blanc dated 1936oil paint / canvas, 43,2x33 cmlower right\n          : \n      P M 36Private collectionB262",
     "state": 0,
     "height": 1000,
     "width": 769,
@@ -14829,7 +15144,10 @@
       "min_line_length": 70,
       "min_distance_factor": 0.065,
       "black_rectangle_dilate": 33
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1936 (1936)",
+    "title": "Composition (A) en rouge et blanc"
   },
   {
     "id": "B263",
@@ -14837,7 +15155,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1935-1937-b253-b281.312/#245008",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\596\\1001195596.jpg&width=150&height=150",
     "year": "1936",
-    "description": " Piet Mondriaan\n         \n\n    Composition (B), en bleu, jaune et blanc dated 1936oil paint / canvas, 43,5\n        x\n        33,5 cmlower right\n          : \n      P M 36Kunstmuseum Basel, Basel (Switzerland), no. H 1937.4B263",
+    "description": "Composition (B), en bleu, jaune et blanc dated 1936oil paint / canvas, 43,5x33,5 cmlower right\n          : \n      P M 36Kunstmuseum Basel, Basel (Switzerland), no. H 1937.4B263",
     "state": 0,
     "height": 1000,
     "width": 770,
@@ -14932,7 +15250,10 @@
       "min_line_length": 70,
       "min_distance_factor": 0.065,
       "black_rectangle_dilate": 33
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1936 (1936)",
+    "title": "Composition (B), en bleu, jaune et blanc"
   },
   {
     "id": "B264",
@@ -14940,7 +15261,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1935-1937-b253-b281.312/#245010",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\422\\0001326422.jpg&width=150&height=150",
     "year": "1936",
-    "description": " Piet Mondriaan\n         \n\n    Composition with yellow dated 1936oil paint / canvas, 74\n        x\n        66 cmlower right\n          : \n      PM 36Philadelphia Museum of Art, Philadelphia (Pennsylvania), no. 50-134-152B264",
+    "description": "Composition with yellow dated 1936oil paint / canvas, 74x66 cmlower right\n          : \n      PM 36Philadelphia Museum of Art, Philadelphia (Pennsylvania), no. 50-134-152B264",
     "state": 0,
     "height": 956,
     "width": 864,
@@ -15179,7 +15500,10 @@
       "min_line_length": 70,
       "min_distance": 70,
       "black_rectangle_dilate": 70
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1936 (1936)",
+    "title": "Composition with yellow"
   },
   {
     "id": "B265",
@@ -15187,7 +15511,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1935-1937-b253-b281.312/#245013",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\423\\0001326423.jpg&width=150&height=150",
     "year": "1936",
-    "description": " Piet Mondriaan\n         \n\n    Composition - blanc, rouge et jaune: A dated 1936oil paint / canvas, 80\n        x\n        62,2 cmlower left\n          : \n      P M 36Los Angeles County Museum of Art, Los Angeles (California), no. 63.14B265",
+    "description": "Composition - blanc, rouge et jaune: A dated 1936oil paint / canvas, 80x62,2 cmlower left\n          : \n      P M 36Los Angeles County Museum of Art, Los Angeles (California), no. 63.14B265",
     "state": 0,
     "height": 939,
     "width": 728,
@@ -15438,7 +15762,10 @@
       "min_line_length": 70,
       "min_distance": 70,
       "black_rectangle_dilate": 70
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1936 (1936)",
+    "title": "Composition - blanc, rouge et jaune: A"
   },
   {
     "id": "B266",
@@ -15446,7 +15773,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1935-1937-b253-b281.312/#245014",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\424\\0001326424.jpg&width=150&height=150",
     "year": "1936",
-    "description": " Piet Mondriaan\n         \n\n    Composition - blanc et rouge: B dated 1936oil paint / canvas, 51,5\n        x\n        50,5 cmlower center\n          : \n      P M 36Philadelphia Museum of Art, Philadelphia (Pennsylvania), no. 52-61-89B266",
+    "description": "Composition - blanc et rouge: B dated 1936oil paint / canvas, 51,5x50,5 cmlower center\n          : \n      P M 36Philadelphia Museum of Art, Philadelphia (Pennsylvania), no. 52-61-89B266",
     "state": 0,
     "height": 972,
     "width": 938,
@@ -15685,7 +16012,10 @@
       "min_line_length": 70,
       "min_distance_factor": 0.065,
       "black_rectangle_dilate": 33
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1936 (1936)",
+    "title": "Composition - blanc et rouge: B"
   },
   {
     "id": "B267",
@@ -15693,7 +16023,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1935-1937-b253-b281.312/#245015",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\694\\1001195694.jpg&width=150&height=150",
     "year": "1936",
-    "description": " Piet Mondriaan\n         \n\n    C dated 1936oil paint / canvas, 70,5\n        x\n        68,5 cmlower center\n          : \n      P M 36New York City\n          (Christie's), 2003-05-07,\n          no. 23B267",
+    "description": "C dated 1936oil paint / canvas, 70,5x68,5 cmlower center\n          : \n      P M 36New York City\n          (Christie's), 2003-05-07,\n          no. 23B267",
     "state": 0,
     "height": 1000,
     "width": 961,
@@ -15920,7 +16250,10 @@
       "min_line_length": 70,
       "min_distance": 70,
       "black_rectangle_dilate": 70
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1936 (1936)",
+    "title": "C"
   },
   {
     "id": "B268",
@@ -15928,7 +16261,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1935-1937-b253-b281.312/#245212",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\425\\0001326425.jpg&width=150&height=150",
     "year": "1936",
-    "description": " Piet Mondriaan\n         \n\n    Composition en blanc, rouge et bleu dated 1936oil paint / canvas, 98,5\n        x\n        80,3 cmlower center\n          : \n      P M 36Staatsgalerie Stuttgart, Stuttgart, no. 2753B268",
+    "description": "Composition en blanc, rouge et bleu dated 1936oil paint / canvas, 98,5x80,3 cmlower center\n          : \n      P M 36Staatsgalerie Stuttgart, Stuttgart, no. 2753B268",
     "state": 0,
     "height": 963,
     "width": 786,
@@ -16179,7 +16512,10 @@
       "min_line_length": 70,
       "min_distance": 70,
       "black_rectangle_dilate": 50
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1936 (1936)",
+    "title": "Composition en blanc, rouge et bleu"
   },
   {
     "id": "B269",
@@ -16187,7 +16523,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1935-1937-b253-b281.312/#245213",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\709\\1001348709.jpg&width=150&height=150",
     "year": "1936",
-    "description": " Piet Mondriaan\n         \n\n    Composition en blanc, noir et rouge dated 1936oil paint / canvas, 102\n        x\n        104 cmlower center\n          : \n      P M 36 The Museum of Modern Art, New York City, no. 2.37B269",
+    "description": "Composition en blanc, noir et rouge dated 1936oil paint / canvas, 102x104 cmlower center\n          : \n      P M 36 The Museum of Modern Art, New York City, no. 2.37B269",
     "state": 0,
     "height": 984,
     "width": 1000,
@@ -16390,7 +16726,10 @@
       "min_line_length": 40,
       "min_distance": 70,
       "black_rectangle_dilate": 40
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1936 (1936)",
+    "title": "Composition en blanc, noir et rouge"
   },
   {
     "id": "B271",
@@ -16398,7 +16737,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1935-1937-b253-b281.312/#245218",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\720\\1001348720.jpg&width=150&height=150",
     "year": "1937",
-    "description": " Piet Mondriaan\n         \n\n    Composition en jaune, bleu et blanc: I dated 1937oil paint / canvas, 57,1\n        x\n        55,2 cmlower right\n          : \n      P M 37 The Museum of Modern Art, New York City, no. 637.67B271",
+    "description": "Composition en jaune, bleu et blanc: I dated 1937oil paint / canvas, 57,1x55,2 cmlower right\n          : \n      P M 37 The Museum of Modern Art, New York City, no. 637.67B271",
     "state": 0,
     "height": 814,
     "width": 791,
@@ -16697,7 +17036,10 @@
       "min_line_length": 40,
       "min_distance": 70,
       "black_rectangle_dilate": 40
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1937 (1937)",
+    "title": "Composition en jaune, bleu et blanc: I"
   },
   {
     "id": "B272",
@@ -16705,7 +17047,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1935-1937-b253-b281.312/#245220",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\603\\1001195603.jpg&width=150&height=150",
     "year": "1937",
-    "description": " Piet Mondriaan\n         \n\n    Composition en rouge, bleu et blanc: II dated 1937oil paint / canvas, 75\n        x\n        60,5 cmlower left\n          : \n      37 P | MMusée National d'Art Moderne \n           (Centre Pompidou), Paris, no. AM 1975-53 PB272",
+    "description": "Composition en rouge, bleu et blanc: II dated 1937oil paint / canvas, 75x60,5 cmlower left\n          : \n      37 P | MMusée National d'Art Moderne \n           (Centre Pompidou), Paris, no. AM 1975-53 PB272",
     "state": 0,
     "height": 1000,
     "width": 798,
@@ -16932,7 +17274,10 @@
       "min_line_length": 70,
       "min_distance_factor": 0.065,
       "black_rectangle_dilate": 33
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1937 (1937)",
+    "title": "Composition en rouge, bleu et blanc: II"
   },
   {
     "id": "B273",
@@ -16940,7 +17285,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1935-1937-b253-b281.312/#245221",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\427\\0001326427.jpg&width=150&height=150",
     "year": "1937",
-    "description": " Piet Mondriaan\n         \n\n    No. I: opposition de lignes, de rouge et jaune dated 1937oil paint / canvas, 43,5\n        x\n        33,5 cmlower left\n          : \n      37lower right\n          : \n      P | MPhiladelphia Museum of Art, Philadelphia (Pennsylvania), no. 52-61-90B273",
+    "description": "No. I: opposition de lignes, de rouge et jaune dated 1937oil paint / canvas, 43,5x33,5 cmlower left\n          : \n      37lower right\n          : \n      P | MPhiladelphia Museum of Art, Philadelphia (Pennsylvania), no. 52-61-90B273",
     "state": 0,
     "height": 965,
     "width": 744,
@@ -17215,7 +17560,10 @@
       "min_line_length": 40,
       "min_distance": 70,
       "black_rectangle_dilate": 40
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1937 (1937)",
+    "title": "No. I: opposition de lignes, de rouge et jaune"
   },
   {
     "id": "B277",
@@ -17223,7 +17571,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1935-1937-b253-b281.312/#245235",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\428\\0001326428.jpg&width=150&height=150",
     "year": "1937",
-    "description": " Piet Mondriaan\n         \n\n    Composition de lignes et couleur: III dated 1937oil paint / canvas, 80\n        x\n        77 cmlower right\n          : \n      P M 37Gemeentemuseum Den Haag, The Hague, no. 0334008 / Sch-1967-0088B277",
+    "description": "Composition de lignes et couleur: III dated 1937oil paint / canvas, 80x77 cmlower right\n          : \n      P M 37Gemeentemuseum Den Haag, The Hague, no. 0334008 / Sch-1967-0088B277",
     "state": 0,
     "height": 982,
     "width": 941,
@@ -17690,7 +18038,10 @@
       "min_line_length": 40,
       "min_distance": 70,
       "black_rectangle_dilate": 40
-    }
+    },
+    "publicDomain": true,
+    "date": "dated 1937 (1937)",
+    "title": "Composition de lignes et couleur: III"
   },
   {
     "id": "B278",
@@ -17698,7 +18049,7 @@
     "link": "http://catalogue.pietmondrian.nl/paris-2-1920-1937-b104-b281.312/1935-1937-b253-b281.312/#245237",
     "thumbnail": "http://imagehandler.rkd.nl/wwwopac.ashx?command=getcontent&server=images&value=jpg\\429\\0001326429.jpg&width=150&height=150",
     "year": "1937",
-    "description": " Piet Mondriaan\n         \n\n    Composition of lines with red (unfinished) 1937oil paint / canvas, 73\n        x\n        68,5 cmfront (positional attribute)\n          : \n      Private collectionB278",
+    "description": "Composition of lines with red (unfinished) 1937oil paint / canvas, 73x68,5 cmfront (positional attribute)\n          : \n      Private collectionB278",
     "state": 0,
     "height": 1000,
     "width": 942,
@@ -18009,6 +18360,9 @@
       "min_line_length": 60,
       "min_distance": 70,
       "black_rectangle_dilate": 35
-    }
+    },
+    "publicDomain": true,
+    "date": "1937 (1937)",
+    "title": "Composition of lines with red (unfinished)"
   }
 ]
